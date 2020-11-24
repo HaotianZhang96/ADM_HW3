@@ -32,7 +32,7 @@ def save_page_in_folder(page_urls, start_page_number, path):
     
     page_directory_list = [] #list of paths
 
-    #create all the directory 
+    #create directories if don't exist 
     for page_number in range(len(page_urls)):
         page_directory = os.path.join('data','page_' +  str(start_page_number + page_number + 1))
         page_directory_list.append(page_directory)
@@ -42,8 +42,9 @@ def save_page_in_folder(page_urls, start_page_number, path):
     #get all the books html and save in folders 
     for page_number in range(len(page_urls)):
         book_list = page_urls[page_number]
+        page_folder = page_directory_list[page_number]
         for book_number in range(len(book_list)):
-            book_file_path = os.path.join(page_directory_list[page_number], 'content_' +
+            book_file_path = os.path.join(page_folder, 'content_' +
              str(100*(start_page_number + page_number) + 1 + book_number) + '.txt')
 
             book_web = requests.get(book_list[book_number])
@@ -52,19 +53,17 @@ def save_page_in_folder(page_urls, start_page_number, path):
 
 
 if __name__ == "__main__":
+    
     #save_books_url('bookurls.txt') commented because the urls have already been stored
+
     source_path = os.path.dirname(__file__) 
     
-    all_urls = get_url_list(os.path.join(source_path, 'bookurls.txt'))
-    
+    all_urls = get_url_list(os.path.join(source_path, 'bookurls.txt'))    
     
     pages_urls = [all_urls[i:i + 100] for i in range(0, len(all_urls), 100)] # split list in 300 sublists of 100 items
     
-    #save_page_in_folder(pages_urls[1], 1, source_path)
+    save_page_in_folder(pages_urls[:100], 0, source_path) #first 100 pages
     
-
-    #save_page_in_folder(page_urls[:100], 0, source_path) #first 100 pages
+    #save_page_in_folder(pages_urls[100:200], 100, source_path) #from page 101 to 200 pages
     
-    save_page_in_folder(pages_urls[100:200], 100, source_path)
-    
-    #save_page_in_folder(page_urls[200:300], 200, source_path))
+    #save_page_in_folder(page_urls[200:300], 200, source_path)) #from page 101 to 300 pages
