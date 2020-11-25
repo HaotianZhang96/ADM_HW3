@@ -1,0 +1,2709 @@
+<!DOCTYPE html>
+<html class="desktop withSiteHeaderTopFullImage
+">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# good_reads: http://ogp.me/ns/fb/good_reads#">
+  <title>Ain't No Grave: The Life and Legacy of Brother Claude Ely by Macel Ely II</title>
+
+<meta content="Ain't No Grave book. Read 8 reviews from the world's largest community for readers. Once described as the King Recording Label's Gospel Ranger, Brother..." name='description'>
+<meta content='telephone=no' name='format-detection'>
+<link href='https://www.goodreads.com/book/show/10757346-ain-t-no-grave' rel='canonical'>
+    <meta content='2415071772' property='fb:app_id'>
+<meta content='books.book' property='og:type'>
+<meta content="Ain't No Grave" property='og:title'>
+<meta content='Once described as the King Recording Label&#x0027;s "Gospel Ranger," Brother Claude Ely (1922-1978) was known and loved throughout the Appalachi...' property='og:description'>
+<meta content='https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348130424i/10757346._UY630_SR1200,630_.jpg' property='og:image'>
+<meta content='https://www.goodreads.com/work/best_book/15105182-ain-t-no-grave-the-life-and-legacy-of-brother-claude-ely' property='og:url'>
+<meta content='https://www.goodreads.com/author/show/4577916.Macel_Ely_II' property='books:author'>
+<meta content='9780981734224' property='books:isbn'>
+<meta content='345' property='books:page_count'>
+<meta content='Goodreads' property='al:ios:app_name'>
+<meta content='355833469' property='al:ios:app_store_id'>
+<meta content='com.goodreads.https://book/show/10757346' property='al:ios:url'>
+
+        <link rel="alternate" href="https://www.goodreads.com/en/book/show/10757346" hreflang="en"/>
+
+
+    <link rel="alternate" href="android-app://com.goodreads/https/www.goodreads.com/book/show/10757346-ain-t-no-grave">
+
+          <link rel="next" href="https://www.goodreads.com/book/show/10757346-ain-t-no-grave?page=2">
+
+
+
+    <script type="text/javascript"> var ue_t0=window.ue_t0||+new Date();
+ </script>
+  <script type="text/javascript">
+    var ue_mid = "A1PQBFHBHS6YH1";
+    var ue_sn = "www.goodreads.com";
+    var ue_furl = "fls-na.amazon.com";
+    var ue_sid = "986-3567974-8834548";
+    var ue_id = "YKSM8W8YPPSGT2Z263G5";
+
+    (function(e){var c=e;var a=c.ue||{};a.main_scope="mainscopecsm";a.q=[];a.t0=c.ue_t0||+new Date();a.d=g;function g(h){return +new Date()-(h?0:a.t0)}function d(h){return function(){a.q.push({n:h,a:arguments,t:a.d()})}}function b(m,l,h,j,i){var k={m:m,f:l,l:h,c:""+j,err:i,fromOnError:1,args:arguments};c.ueLogError(k);return false}b.skipTrace=1;e.onerror=b;function f(){c.uex("ld")}if(e.addEventListener){e.addEventListener("load",f,false)}else{if(e.attachEvent){e.attachEvent("onload",f)}}a.tag=d("tag");a.log=d("log");a.reset=d("rst");c.ue_csm=c;c.ue=a;c.ueLogError=d("err");c.ues=d("ues");c.uet=d("uet");c.uex=d("uex");c.uet("ue")})(window);(function(e,d){var a=e.ue||{};function c(g){if(!g){return}var f=d.head||d.getElementsByTagName("head")[0]||d.documentElement,h=d.createElement("script");h.async="async";h.src=g;f.insertBefore(h,f.firstChild)}function b(){var k=e.ue_cdn||"z-ecx.images-amazon.com",g=e.ue_cdns||"images-na.ssl-images-amazon.com",j="/images/G/01/csminstrumentation/",h=e.ue_file||"ue-full-11e51f253e8ad9d145f4ed644b40f692._V1_.js",f,i;if(h.indexOf("NSTRUMENTATION_FIL")>=0){return}if("ue_https" in e){f=e.ue_https}else{f=e.location&&e.location.protocol=="https:"?1:0}i=f?"https://":"http://";i+=f?g:k;i+=j;i+=h;c(i)}if(!e.ue_inline){if(a.loadUEFull){a.loadUEFull()}else{b()}}a.uels=c;e.ue=a})(window,document);
+
+    if (window.ue && window.ue.tag) { window.ue.tag('book:show:signed_out', ue.main_scope);window.ue.tag('book:show:signed_out:desktop', ue.main_scope); }
+  </script>
+
+
+          <script type="text/javascript">
+        if (window.Mobvious === undefined) {
+          window.Mobvious = {};
+        }
+        window.Mobvious.device_type = 'desktop';
+        </script>
+
+
+  
+<script src="https://s.gr-assets.com/assets/webfontloader-032396443d87656441bab7d02193984c.js"></script>
+<script>
+//<![CDATA[
+
+  WebFont.load({
+    classes: false,
+    custom: {
+      families: ["Lato:n4,n7,i4", "Merriweather:n4,n7,i4"],
+      urls: ["https://s.gr-assets.com/assets/gr/fonts-e256f84093cc13b27f5b82343398031a.css"]
+    }
+  });
+
+//]]>
+</script>
+
+  <link rel="stylesheet" media="all" href="https://s.gr-assets.com/assets/goodreads-51809dd0841aca42d53e6a6178a22d88.css" />
+
+  
+
+  <link rel="stylesheet" media="screen" href="https://s.gr-assets.com/assets/common_images-670d97636259cafc355c94fc43e871d7.css" />
+
+  <script src="https://s.gr-assets.com/assets/desktop/libraries-fedbf6e14cf39d43205f9973c3bdce09.js"></script>
+  <script src="https://s.gr-assets.com/assets/application-2875ce97e5c69c01f01b157e0f6d85af.js"></script>
+
+    <script>
+  //<![CDATA[
+    var gptAdSlots = gptAdSlots || [];
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+      var gads = document.createElement("script");
+      gads.async = true;
+      gads.type = "text/javascript";
+      var useSSL = "https:" == document.location.protocol;
+      gads.src = (useSSL ? "https:" : "http:") +
+      "//securepubads.g.doubleclick.net/tag/js/gpt.js";
+      var node = document.getElementsByTagName("script")[0];
+      node.parentNode.insertBefore(gads, node);
+    })();
+    // page settings
+  //]]>
+</script>
+<script>
+  //<![CDATA[
+    googletag.cmd.push(function() {
+      googletag.pubads().setTargeting("sid", "osid.936c163c5480d5f001a352251840dcc8");
+    googletag.pubads().setTargeting("grsession", "osid.936c163c5480d5f001a352251840dcc8");
+    googletag.pubads().setTargeting("surface", "desktop");
+    googletag.pubads().setTargeting("signedin", "false");
+    googletag.pubads().setTargeting("gr_author", "false");
+    googletag.pubads().setTargeting("author", [4577916]);
+    googletag.pubads().setTargeting("shelf", ["music","history","biography","photography","nonfiction","memoir"]);
+    googletag.pubads().setTargeting("tags", ["172","48","96","131","5","4"]);
+    googletag.pubads().setTargeting("gtargeting", "1dvxz2st1d");
+    googletag.pubads().setTargeting("resource", "Work_15105182");
+      googletag.pubads().enableAsyncRendering();
+      googletag.pubads().enableSingleRequest();
+      googletag.pubads().collapseEmptyDivs(true);
+      googletag.pubads().disableInitialLoad();
+      googletag.enableServices();
+    });
+  //]]>
+</script>
+<script>
+  //<![CDATA[
+    ! function(a9, a, p, s, t, A, g) {
+      if (a[a9]) return;
+    
+      function q(c, r) {
+        a[a9]._Q.push([c, r])
+      }
+      a[a9] = {
+      init: function() {
+        q("i", arguments)
+      },
+      fetchBids: function() {
+        q("f", arguments)
+      },
+      setDisplayBids: function() {},
+        _Q: []
+      };
+      A = p.createElement(s);
+      A.async = !0;
+      A.src = t;
+      g = p.getElementsByTagName(s)[0];
+      g.parentNode.insertBefore(A, g)
+    }("apstag", window, document, "script", "//c.amazon-adsystem.com/aax2/apstag.js");
+    
+    apstag.init({
+      pubID: '3211', adServer: 'googletag', bidTimeout: 4e3, params: { aps_privacy: '1YN' }
+    });
+  //]]>
+</script>
+
+
+
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="lU8OvyayvTHDL47MkPIUnDyJsex7/iU0/d6HBSwMsnhoPoJ444Kiv+s0ea6zfN3MaFsG1fzSdpxsHtCBk3TvtA==" />
+
+  <meta name="request-id" content="YKSM8W8YPPSGT2Z263G5" />
+
+    <script src="https://s.gr-assets.com/assets/react_client_side/external_dependencies-51654d5556.js" defer="defer"></script>
+<script src="https://s.gr-assets.com/assets/react_client_side/site_header-6b419369c5.js" defer="defer"></script>
+<script src="https://s.gr-assets.com/assets/react_client_side/custom_react_ujs-b1220d5e0a4820e90b905c302fc5cb52.js" defer="defer"></script>
+
+
+      <script src="https://s.gr-assets.com/assets/book/show-a22931d02749837069b3b4a4ebf40236.js"></script>
+    <script>
+    //<![CDATA[
+      !function(d,s,id)
+        {var js, fjs = d.getElementsByTagName(s)[0];
+          if(!d.getElementById(id))
+            {js=d.createElement(s);
+            js.id=id;
+            js.src='https://platform.twitter.com/widgets.js';
+            fjs.parentNode.insertBefore(js,fjs);
+          }}(document,'script','twitter-wjs');
+    //]]>
+    </script>
+
+
+  
+  
+  
+
+  <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="Goodreads">
+
+    <script>
+//<![CDATA[
+
+  var GoodreadsAnalytics = GoodreadsAnalytics || {};
+  var _gaq = _gaq || [];
+
+  GoodreadsAnalytics.push = function () {
+    _gaq.push.apply(_gaq, arguments);
+  }
+
+  GoodreadsAnalytics.push(['_setAccount', 'UA-968618-1']);
+  GoodreadsAnalytics.push(['_setCustomVar',
+    1,                        // Slot 1
+    'User Status',            // Custom variable name
+    'signed_out',  // Custom variable value: signed_out, signed_in,
+                              //   signed_in_facebook_connected, or
+                              //   goodreads_member_previously_signed_in
+    2                         // Visit-level scope, which means slot 1 will be
+                              //   free when the visit ends.
+  ]);
+  GoodreadsAnalytics.push(['_setCustomVar',
+    2,                        // Slot 2
+    'Device Type',            // Custom variable name
+    'desktop',         // Custom variable value: desktop, mobile, or
+                              //   tablet
+    2                         // Visit-level scope, which means slot 2 will be
+                              //   free when the visit ends.
+  ]);
+  GoodreadsAnalytics.push(['_trackPageview']);
+
+  (function () {
+    var ga = document.createElement('script');
+    ga.type = 'text/javascript';
+    ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ga, s);
+  })();
+
+//]]>
+</script>
+
+    <meta name="description" content="Ain't No Grave book. Read 8 reviews from the world's largest community for readers. Once described as the King Recording Label's Gospel Ranger, Brother...">
+
+
+  <meta content='summary' name='twitter:card'>
+<meta content='@goodreads' name='twitter:site'>
+<meta content="Ain't No Grave: The Life and Legacy of Brother Claude Ely by Macel Ely II" name='twitter:title'>
+<meta content="Ain't No Grave book. Read 8 reviews from the world's largest community for readers. Once described as the King Recording Label's Gospel Ranger, Brother..." name='twitter:description'>
+<meta content='https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348130424i/10757346._UY400_SS400_.jpg' name='twitter:image'>
+<meta content="Ain't No Grave" name='twitter:image:alt'>
+
+
+  <meta name="verify-v1" content="cEf8XOH0pulh1aYQeZ1gkXHsQ3dMPSyIGGYqmF53690=">
+  <meta name="google-site-verification" content="PfFjeZ9OK1RrUrKlmAPn_iZJ_vgHaZO1YQ-QlG2VsJs" />
+  <meta name="apple-itunes-app" content="app-id=355833469">
+</head>
+
+
+<body class="">
+<div data-react-class="ReactComponents.StoresInitializer" data-react-props="{}"><noscript data-reactid=".1pzxnopy0hs" data-react-checksum="-1031073314"></noscript></div>
+
+<div class="content">
+    <script>
+  //<![CDATA[
+    var initializeGrfb = function() {
+      $grfb.initialize({
+        appId: "2415071772"
+      });
+    };
+    if (typeof $grfb !== "undefined") {
+      initializeGrfb();
+    } else {
+      window.addEventListener("DOMContentLoaded", function() {
+        if (typeof $grfb !== "undefined") {
+          initializeGrfb();
+        }
+      });
+    }
+  //]]>
+</script>
+
+<script>
+  //<![CDATA[
+    function loadScript(url, callback) {
+      var script = document.createElement("script");
+      script.type = "text/javascript";
+    
+      if (script.readyState) {  //Internet Explorer
+          script.onreadystatechange = function() {
+            if (script.readyState == "loaded" ||
+                    script.readyState == "complete") {
+              script.onreadystatechange = null;
+              callback();
+            }
+          };
+      } else {  //Other browsers
+        script.onload = function() {
+          callback();
+        };
+      }
+    
+      script.src = url;
+      document.getElementsByTagName("head")[0].appendChild(script);
+    }
+    
+    function initAppleId() {
+      AppleID.auth.init({
+        clientId : 'com.goodreads.app', 
+        scope : 'name email',
+        redirectURI: 'https://www.goodreads.com/apple_users/sign_in_with_apple_web',
+        state: 'apple_oauth_state_8ff49c9f-9d3b-4eea-abf3-0c215c470148'
+      });
+    }
+    
+    var initializeSiwa = function() {
+      var APPLE_SIGN_IN_JS_URL =  "https://appleid.cdn-apple.com/appleauth/static/jsapi/appleid/1/en_US/appleid.auth.js"
+      loadScript(APPLE_SIGN_IN_JS_URL, initAppleId);
+    };
+    if (typeof AppleID !== "undefined") {
+      initAppleId();
+    } else {
+      initializeSiwa();
+    }
+  //]]>
+</script>
+
+<div class='siteHeader'>
+<div data-react-class="ReactComponents.HeaderStoreConnector" data-react-props="{&quot;myBooksUrl&quot;:&quot;/review/list?ref=nav_mybooks&quot;,&quot;browseUrl&quot;:&quot;/book?ref=nav_brws&quot;,&quot;recommendationsUrl&quot;:&quot;/recommendations?ref=nav_brws_recs&quot;,&quot;choiceAwardsUrl&quot;:&quot;/choiceawards?ref=nav_brws_gca&quot;,&quot;genresIndexUrl&quot;:&quot;/genres?ref=nav_brws_genres&quot;,&quot;giveawayUrl&quot;:&quot;/giveaway?ref=nav_brws_giveaways&quot;,&quot;exploreUrl&quot;:&quot;/book?ref=nav_brws_explore&quot;,&quot;homeUrl&quot;:&quot;/?ref=nav_home&quot;,&quot;listUrl&quot;:&quot;/list?ref=nav_brws_lists&quot;,&quot;newsUrl&quot;:&quot;/news?ref=nav_brws_news&quot;,&quot;communityUrl&quot;:&quot;/group?ref=nav_comm&quot;,&quot;groupsUrl&quot;:&quot;/group?ref=nav_comm_groups&quot;,&quot;quotesUrl&quot;:&quot;/quotes?ref=nav_comm_quotes&quot;,&quot;featuredAskAuthorUrl&quot;:&quot;/ask_the_author?ref=nav_comm_askauthor&quot;,&quot;discussionsUrl&quot;:&quot;/topic?ref=nav_comm_discuss&quot;,&quot;autocompleteUrl&quot;:&quot;/book/auto_complete&quot;,&quot;defaultLogoActionUrl&quot;:&quot;/&quot;,&quot;topFullImage&quot;:{&quot;clickthroughUrl&quot;:&quot;https://www.goodreads.com/choiceawards/best-books-2020?ref=gca2020_eb&quot;,&quot;altText&quot;:&quot;Goodreads Choice Awards 2020&quot;,&quot;backgroundColor&quot;:&quot;#32362D&quot;,&quot;xs&quot;:{&quot;1x&quot;:&quot;https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1603221987i/31.jpg&quot;,&quot;2x&quot;:&quot;https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1603221992i/32.jpg&quot;},&quot;md&quot;:{&quot;1x&quot;:&quot;https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1603221975i/29.jpg&quot;,&quot;2x&quot;:&quot;https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1603221981i/30.jpg&quot;}},&quot;logo&quot;:{&quot;imageUrl&quot;:&quot;https://images.gr-assets.com/doodles/1603221570i/24.svg&quot;,&quot;clickthroughUrl&quot;:&quot;/&quot;,&quot;altText&quot;:&quot;Goodreads Choice Awards 2020&quot;},&quot;searchPath&quot;:&quot;/search&quot;,&quot;newReleasesUrl&quot;:&quot;/book/popular_by_date/2020/11?ref=nav_brws_newrels&quot;,&quot;signInUrl&quot;:&quot;/user/sign_in&quot;,&quot;signUpUrl&quot;:&quot;/user/sign_up&quot;,&quot;signInWithReturnUrl&quot;:true,&quot;deployServices&quot;:[],&quot;defaultLogoAltText&quot;:&quot;Goodreads Home&quot;,&quot;mobviousDeviceType&quot;:&quot;desktop&quot;}"><header data-reactid=".x2ufuhdk3k" data-react-checksum="1739970204"><div class="siteHeader__topFullImageContainer" style="background-color:#32362D;" data-reactid=".x2ufuhdk3k.0"><a class="siteHeader__topFullImageLink" href="https://www.goodreads.com/choiceawards/best-books-2020?ref=gca2020_eb" data-reactid=".x2ufuhdk3k.0.0"><picture data-reactid=".x2ufuhdk3k.0.0.0"><source media="(min-width: 768px)" srcset="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1603221975i/29.jpg 1x, https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1603221981i/30.jpg 2x" data-reactid=".x2ufuhdk3k.0.0.0.0"/><img alt="Goodreads Choice Awards 2020" class="siteHeader__topFullImage" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1603221987i/31.jpg" srcset="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1603221992i/32.jpg 2x" data-reactid=".x2ufuhdk3k.0.0.0.1"/></picture></a></div><div class="siteHeader__topLine gr-box gr-box--withShadow" data-reactid=".x2ufuhdk3k.1"><div class="siteHeader__contents" data-reactid=".x2ufuhdk3k.1.0"><div class="siteHeader__topLevelItem siteHeader__topLevelItem--searchIcon" data-reactid=".x2ufuhdk3k.1.0.0"><button class="siteHeader__searchIcon gr-iconButton" aria-label="Toggle search" type="button" data-ux-click="true" data-reactid=".x2ufuhdk3k.1.0.0.0"></button></div><a href="/" class="siteHeader__logo siteHeader__logo--doodle" data-reactid=".x2ufuhdk3k.1.0.1"><picture data-reactid=".x2ufuhdk3k.1.0.1.0"><img src="https://images.gr-assets.com/doodles/1603221570i/24.svg" alt="Goodreads Choice Awards 2020" data-reactid=".x2ufuhdk3k.1.0.1.0.0"/></picture></a><nav class="siteHeader__primaryNavInline" data-reactid=".x2ufuhdk3k.1.0.2"><ul role="menu" class="siteHeader__menuList" data-reactid=".x2ufuhdk3k.1.0.2.0"><li class="siteHeader__topLevelItem siteHeader__topLevelItem--home" data-reactid=".x2ufuhdk3k.1.0.2.0.0"><a href="/?ref=nav_home" class="siteHeader__topLevelLink" data-reactid=".x2ufuhdk3k.1.0.2.0.0.0">Home</a></li><li class="siteHeader__topLevelItem" data-reactid=".x2ufuhdk3k.1.0.2.0.1"><a href="/review/list?ref=nav_mybooks" class="siteHeader__topLevelLink" data-reactid=".x2ufuhdk3k.1.0.2.0.1.0">My Books</a></li><li class="siteHeader__topLevelItem" data-reactid=".x2ufuhdk3k.1.0.2.0.2"><div class="primaryNavMenu primaryNavMenu--siteHeaderBrowseMenu ignore-react-onclickoutside" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0"><a class="primaryNavMenu__trigger primaryNavMenu__trigger--siteHeaderBrowseMenu" href="/book?ref=nav_brws" role="button" aria-haspopup="true" aria-expanded="false" data-ux-click="true" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.0"><span data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.0.0">Browse ▾</span></a><div class="primaryNavMenu__menu gr-box gr-box--withShadowLarge wide" role="menu" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1"><div class="siteHeader__browseMenuDropdown" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0"><ul class="siteHeader__subNav" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.0"><li role="menuitem" class="menuLink" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.0.0"><a href="/recommendations?ref=nav_brws_recs" class="siteHeader__subNavLink" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.0.0.0">Recommendations</a></li><li role="menuitem" class="menuLink" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.0.1"><a href="/choiceawards?ref=nav_brws_gca" class="siteHeader__subNavLink" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.0.1.0">Choice Awards</a></li><li role="menuitem" class="menuLink" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.0.2"><a href="/genres?ref=nav_brws_genres" class="siteHeader__subNavLink siteHeader__subNavLink--genresIndex" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.0.2.0">Genres</a></li><li role="menuitem" class="menuLink" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.0.3"><a href="/giveaway?ref=nav_brws_giveaways" class="siteHeader__subNavLink" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.0.3.0">Giveaways</a></li><li role="menuitem" class="menuLink" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.0.4"><a href="/book/popular_by_date/2020/11?ref=nav_brws_newrels" class="siteHeader__subNavLink" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.0.4.0">New Releases</a></li><li role="menuitem" class="menuLink" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.0.5"><a href="/list?ref=nav_brws_lists" class="siteHeader__subNavLink" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.0.5.0">Lists</a></li><li role="menuitem" class="menuLink" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.0.6"><a href="/book?ref=nav_brws_explore" class="siteHeader__subNavLink" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.0.6.0">Explore</a></li><li role="menuitem" class="menuLink" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.0.7"><a href="/news?ref=nav_brws_news" class="siteHeader__subNavLink" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.0.7.0">News &amp; Interviews</a></li></ul><div class="siteHeader__spotlight siteHeader__spotlight--withoutSubMenu" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1"><div class="genreListContainer" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0"><div class="siteHeader__heading siteHeader__title" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.0">Genres</div><ul class="genreList" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList0"><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Art"><a href="/genres/art" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Art.0">Art</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Biography"><a href="/genres/biography" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Biography.0">Biography</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Business"><a href="/genres/business" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Business.0">Business</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Children&#x27;s"><a href="/genres/children-s" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Children&#x27;s.0">Children&#x27;s</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Christian"><a href="/genres/christian" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Christian.0">Christian</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Classics"><a href="/genres/classics" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Classics.0">Classics</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Comics"><a href="/genres/comics" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Comics.0">Comics</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Cookbooks"><a href="/genres/cookbooks" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Cookbooks.0">Cookbooks</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Ebooks"><a href="/genres/ebooks" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Ebooks.0">Ebooks</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Fantasy"><a href="/genres/fantasy" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Fantasy.0">Fantasy</a></li></ul><ul class="genreList" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList1"><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Fiction"><a href="/genres/fiction" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Fiction.0">Fiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Graphic Novels"><a href="/genres/graphic-novels" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Graphic Novels.0">Graphic Novels</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Historical Fiction"><a href="/genres/historical-fiction" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Historical Fiction.0">Historical Fiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$History"><a href="/genres/history" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$History.0">History</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Horror"><a href="/genres/horror" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Horror.0">Horror</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Memoir"><a href="/genres/memoir" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Memoir.0">Memoir</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Music"><a href="/genres/music" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Music.0">Music</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Mystery"><a href="/genres/mystery" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Mystery.0">Mystery</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Nonfiction"><a href="/genres/non-fiction" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Nonfiction.0">Nonfiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Poetry"><a href="/genres/poetry" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Poetry.0">Poetry</a></li></ul><ul class="genreList" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList2"><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Psychology"><a href="/genres/psychology" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Psychology.0">Psychology</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Romance"><a href="/genres/romance" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Romance.0">Romance</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Science"><a href="/genres/science" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Science.0">Science</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Science Fiction"><a href="/genres/science-fiction" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Science Fiction.0">Science Fiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Self Help"><a href="/genres/self-help" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Self Help.0">Self Help</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Sports"><a href="/genres/sports" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Sports.0">Sports</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Thriller"><a href="/genres/thriller" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Thriller.0">Thriller</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Travel"><a href="/genres/travel" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Travel.0">Travel</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Young Adult"><a href="/genres/young-adult" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Young Adult.0">Young Adult</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList2.1"><a href="/genres" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.1.0.2.0.2.0.1.0.1.0.1:$genreList2.1.0">More Genres</a></li></ul></div></div></div></div></div></li><li class="siteHeader__topLevelItem siteHeader__topLevelItem--community" data-reactid=".x2ufuhdk3k.1.0.2.0.3"><div class="primaryNavMenu ignore-react-onclickoutside" data-reactid=".x2ufuhdk3k.1.0.2.0.3.0"><a class="primaryNavMenu__trigger" href="/group?ref=nav_comm" role="button" aria-haspopup="true" aria-expanded="false" data-ux-click="true" data-reactid=".x2ufuhdk3k.1.0.2.0.3.0.0"><span data-reactid=".x2ufuhdk3k.1.0.2.0.3.0.0.0">Community ▾</span></a><div class="primaryNavMenu__menu gr-box gr-box--withShadowLarge" role="menu" data-reactid=".x2ufuhdk3k.1.0.2.0.3.0.1"><ul class="siteHeader__subNav" data-reactid=".x2ufuhdk3k.1.0.2.0.3.0.1.0"><li role="menuitem" class="menuLink" data-reactid=".x2ufuhdk3k.1.0.2.0.3.0.1.0.0"><a href="/group?ref=nav_comm_groups" class="siteHeader__subNavLink" data-reactid=".x2ufuhdk3k.1.0.2.0.3.0.1.0.0.0">Groups</a></li><li role="menuitem" class="menuLink" data-reactid=".x2ufuhdk3k.1.0.2.0.3.0.1.0.1"><a href="/topic?ref=nav_comm_discuss" class="siteHeader__subNavLink" data-reactid=".x2ufuhdk3k.1.0.2.0.3.0.1.0.1.0">Discussions</a></li><li role="menuitem" class="menuLink" data-reactid=".x2ufuhdk3k.1.0.2.0.3.0.1.0.2"><a href="/quotes?ref=nav_comm_quotes" class="siteHeader__subNavLink" data-reactid=".x2ufuhdk3k.1.0.2.0.3.0.1.0.2.0">Quotes</a></li><li role="menuitem" class="menuLink" data-reactid=".x2ufuhdk3k.1.0.2.0.3.0.1.0.3"><a href="/ask_the_author?ref=nav_comm_askauthor" class="siteHeader__subNavLink" data-reactid=".x2ufuhdk3k.1.0.2.0.3.0.1.0.3.0">Ask the Author</a></li></ul></div></div></li></ul></nav><div accept-charset="UTF-8" class="searchBox searchBox--navbar" data-reactid=".x2ufuhdk3k.1.0.3"><form autocomplete="off" action="/search" class="searchBox__form" role="search" aria-label="Search for books to add to your shelves" data-reactid=".x2ufuhdk3k.1.0.3.0"><input class="searchBox__input searchBox__input--navbar" autocomplete="off" name="q" type="text" placeholder="Search books" aria-label="Search books" aria-controls="searchResults" data-reactid=".x2ufuhdk3k.1.0.3.0.0"/><input type="hidden" name="qid" value="" data-reactid=".x2ufuhdk3k.1.0.3.0.1"/><button type="submit" class="searchBox__icon--magnifyingGlass gr-iconButton searchBox__icon searchBox__icon--navbar" aria-label="Search" data-reactid=".x2ufuhdk3k.1.0.3.0.2"></button></form></div><ul class="siteHeader__personal" data-reactid=".x2ufuhdk3k.1.0.4"><li class="siteHeader__topLevelItem siteHeader__topLevelItem--signedOut" data-reactid=".x2ufuhdk3k.1.0.4.0"><a href="/user/sign_in?returnurl=undefined" rel="nofollow" class="siteHeader__topLevelLink" data-reactid=".x2ufuhdk3k.1.0.4.0.0">Sign In</a></li><li class="siteHeader__topLevelItem siteHeader__topLevelItem--signedOut" data-reactid=".x2ufuhdk3k.1.0.4.1"><a href="/user/sign_up" rel="nofollow" class="siteHeader__topLevelLink" data-reactid=".x2ufuhdk3k.1.0.4.1.0">Join</a></li></ul><div class="siteHeader__topLevelItem siteHeader__topLevelItem--signUp" data-reactid=".x2ufuhdk3k.1.0.5"><a href="/user/sign_up" class="gr-button gr-button--dark" rel="nofollow" data-reactid=".x2ufuhdk3k.1.0.5.0">Sign up</a></div><div class="modal modal--overlay modal--drawer" tabindex="0" data-reactid=".x2ufuhdk3k.1.0.7"><div data-reactid=".x2ufuhdk3k.1.0.7.0"><div class="modal__close" data-reactid=".x2ufuhdk3k.1.0.7.0.0"><button type="button" class="gr-iconButton" data-reactid=".x2ufuhdk3k.1.0.7.0.0.0"><img alt="Dismiss" src="//s.gr-assets.com/assets/gr/icons/icon_close_white-dbf4152deeef5bd3915d5d12210bf05f.svg" data-reactid=".x2ufuhdk3k.1.0.7.0.0.0.0"/></button></div><div class="modal__content" data-reactid=".x2ufuhdk3k.1.0.7.0.1"><div class="personalNavDrawer" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0"><div class="personalNavDrawer__personalNavContainer" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.0"><ul class="personalNav" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.0.0"><li class="personalNav__listItem" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.0.0.0"><a class="headerPersonalNav" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.0.0.0.0"><span class="headerPersonalNav__icon
+                       headerPersonalNav__icon--notifications" aria-label="Notifications" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.0.0.0.0.0"></span></a></li><li class="personalNav__listItem" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.0.0.1"><a href="/topic?ref=nav_bar_discussions_pane_discussion&amp;discussion_filter=groups" title="My group discussions" class="headerPersonalNav" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.0.0.1.0"><span class="headerPersonalNav__icon headerPersonalNav__icon--discussions" aria-label="My group discussions" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.0.0.1.0.0"></span></a></li><li class="personalNav__listItem" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.0.0.2"><a title="Messages" class="headerPersonalNav" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.0.0.2.0"><span class="headerPersonalNav__icon headerPersonalNav__icon--inbox" aria-label="Inbox" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.0.0.2.0.0"></span></a></li><li class="personalNav__listItem" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.0.0.3"><a title="Friends" class="headerPersonalNav" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.0.0.3.0"><span class="headerPersonalNav__icon headerPersonalNav__icon--friendRequests" aria-label="Friend Requests" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.0.0.3.0.0"></span></a></li></ul></div><div class="personalNavDrawer__profileAndLinksContainer" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.1"><div class="personalNavDrawer__profileContainer gr-mediaFlexbox gr-mediaFlexbox--alignItemsCenter" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.1.0"><div class="gr-mediaFlexbox__media" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.1.0.0"><img class="circularIcon circularIcon--large circularIcon--border" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.1.0.0.0"/></div><div class="gr-mediaFlexbox__desc" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.1.0.1"><a class="gr-hyperlink gr-hyperlink--bold" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.1.0.1.0"></a><div class="u-displayBlock" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.1.0.1.1"><a class="gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.1.0.1.1.0">View profile</a></div></div></div><div class="personalNavDrawer__profileMenuContainer" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.1.1"><ul data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.1.1.0"><li role="menuitem" class="menuLink" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.1.1.0.0"><span data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.1.1.0.0.0"><a class="siteHeader__subNavLink" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.1.1.0.0.0.0">Profile</a></span></li><li role="menuitem" class="menuLink" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.1.1.0.2"><a class="siteHeader__subNavLink" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.1.1.0.2.0">Friends</a></li><li role="menuitem" class="menuLink" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.1.1.0.3"><span data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.1.1.0.3.0"><a class="siteHeader__subNavLink" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.1.1.0.3.0.0"><span data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.1.1.0.3.0.0.0">Groups</span></a></span></li><li role="menuitem" class="menuLink" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.1.1.0.4"><a href="/topic?ref=nav_comm_discuss" class="siteHeader__subNavLink" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.1.1.0.4.0">Discussions</a></li><li role="menuitem" class="menuLink" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.1.1.0.5"><a class="siteHeader__subNavLink" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.1.1.0.5.0">Comments</a></li><li role="menuitem" class="menuLink" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.1.1.0.6"><a class="siteHeader__subNavLink" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.1.1.0.6.0">Reading Challenge</a></li><li role="menuitem" class="menuLink" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.1.1.0.7"><a class="siteHeader__subNavLink" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.1.1.0.7.0">Kindle Notes &amp; Highlights</a></li><li role="menuitem" class="menuLink" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.1.1.0.8"><a class="siteHeader__subNavLink" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.1.1.0.8.0">Quotes</a></li><li role="menuitem" class="menuLink" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.1.1.0.9"><a class="siteHeader__subNavLink" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.1.1.0.9.0">Favorite genres</a></li><li role="menuitem" class="menuLink" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.1.1.0.a"><span data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.1.1.0.a.0"><a class="siteHeader__subNavLink" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.1.1.0.a.0.0"><span data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.1.1.0.a.0.0.0">Friends’ recommendations</span></a></span></li><li role="menuitem" class="menuLink" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.1.1.0.b"><a class="siteHeader__subNavLink u-topGrayBorder" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.1.1.0.b.0">Account settings</a></li><li role="menuitem" class="menuLink" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.1.1.0.c"><a class="siteHeader__subNavLink" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.1.1.0.c.0">Help</a></li><li role="menuitem" class="menuLink" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.1.1.0.d"><a class="siteHeader__subNavLink" data-method="POST" data-reactid=".x2ufuhdk3k.1.0.7.0.1.0.1.1.0.d.0">Sign out</a></li></ul></div></div></div></div></div></div></div></div><div class="headroom-wrapper" data-reactid=".x2ufuhdk3k.2"><div style="position:relative;top:0;left:0;right:0;z-index:1;-webkit-transform:translateY(0);-ms-transform:translateY(0);transform:translateY(0);" class="headroom headroom--unfixed" data-reactid=".x2ufuhdk3k.2.0"><nav class="siteHeader__primaryNavSeparateLine gr-box gr-box--withShadow" data-reactid=".x2ufuhdk3k.2.0.0"><ul role="menu" class="siteHeader__menuList" data-reactid=".x2ufuhdk3k.2.0.0.0"><li class="siteHeader__topLevelItem siteHeader__topLevelItem--home" data-reactid=".x2ufuhdk3k.2.0.0.0.0"><a href="/?ref=nav_home" class="siteHeader__topLevelLink" data-reactid=".x2ufuhdk3k.2.0.0.0.0.0">Home</a></li><li class="siteHeader__topLevelItem" data-reactid=".x2ufuhdk3k.2.0.0.0.1"><a href="/review/list?ref=nav_mybooks" class="siteHeader__topLevelLink" data-reactid=".x2ufuhdk3k.2.0.0.0.1.0">My Books</a></li><li class="siteHeader__topLevelItem" data-reactid=".x2ufuhdk3k.2.0.0.0.2"><div class="primaryNavMenu primaryNavMenu--siteHeaderBrowseMenu ignore-react-onclickoutside" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0"><a class="primaryNavMenu__trigger primaryNavMenu__trigger--siteHeaderBrowseMenu" href="/book?ref=nav_brws" role="button" aria-haspopup="true" aria-expanded="false" data-ux-click="true" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.0"><span data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.0.0">Browse ▾</span></a><div class="primaryNavMenu__menu gr-box gr-box--withShadowLarge wide" role="menu" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1"><div class="siteHeader__browseMenuDropdown" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0"><ul class="siteHeader__subNav" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.0"><li role="menuitem" class="menuLink" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.0.0"><a href="/recommendations?ref=nav_brws_recs" class="siteHeader__subNavLink" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.0.0.0">Recommendations</a></li><li role="menuitem" class="menuLink" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.0.1"><a href="/choiceawards?ref=nav_brws_gca" class="siteHeader__subNavLink" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.0.1.0">Choice Awards</a></li><li role="menuitem" class="menuLink" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.0.2"><a href="/genres?ref=nav_brws_genres" class="siteHeader__subNavLink siteHeader__subNavLink--genresIndex" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.0.2.0">Genres</a></li><li role="menuitem" class="menuLink" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.0.3"><a href="/giveaway?ref=nav_brws_giveaways" class="siteHeader__subNavLink" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.0.3.0">Giveaways</a></li><li role="menuitem" class="menuLink" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.0.4"><a href="/book/popular_by_date/2020/11?ref=nav_brws_newrels" class="siteHeader__subNavLink" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.0.4.0">New Releases</a></li><li role="menuitem" class="menuLink" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.0.5"><a href="/list?ref=nav_brws_lists" class="siteHeader__subNavLink" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.0.5.0">Lists</a></li><li role="menuitem" class="menuLink" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.0.6"><a href="/book?ref=nav_brws_explore" class="siteHeader__subNavLink" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.0.6.0">Explore</a></li><li role="menuitem" class="menuLink" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.0.7"><a href="/news?ref=nav_brws_news" class="siteHeader__subNavLink" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.0.7.0">News &amp; Interviews</a></li></ul><div class="siteHeader__spotlight siteHeader__spotlight--withoutSubMenu" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1"><div class="genreListContainer" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0"><div class="siteHeader__heading siteHeader__title" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.0">Genres</div><ul class="genreList" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList0"><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Art"><a href="/genres/art" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Art.0">Art</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Biography"><a href="/genres/biography" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Biography.0">Biography</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Business"><a href="/genres/business" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Business.0">Business</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Children&#x27;s"><a href="/genres/children-s" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Children&#x27;s.0">Children&#x27;s</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Christian"><a href="/genres/christian" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Christian.0">Christian</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Classics"><a href="/genres/classics" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Classics.0">Classics</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Comics"><a href="/genres/comics" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Comics.0">Comics</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Cookbooks"><a href="/genres/cookbooks" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Cookbooks.0">Cookbooks</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Ebooks"><a href="/genres/ebooks" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Ebooks.0">Ebooks</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Fantasy"><a href="/genres/fantasy" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Fantasy.0">Fantasy</a></li></ul><ul class="genreList" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList1"><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Fiction"><a href="/genres/fiction" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Fiction.0">Fiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Graphic Novels"><a href="/genres/graphic-novels" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Graphic Novels.0">Graphic Novels</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Historical Fiction"><a href="/genres/historical-fiction" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Historical Fiction.0">Historical Fiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$History"><a href="/genres/history" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$History.0">History</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Horror"><a href="/genres/horror" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Horror.0">Horror</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Memoir"><a href="/genres/memoir" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Memoir.0">Memoir</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Music"><a href="/genres/music" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Music.0">Music</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Mystery"><a href="/genres/mystery" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Mystery.0">Mystery</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Nonfiction"><a href="/genres/non-fiction" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Nonfiction.0">Nonfiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Poetry"><a href="/genres/poetry" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Poetry.0">Poetry</a></li></ul><ul class="genreList" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList2"><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Psychology"><a href="/genres/psychology" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Psychology.0">Psychology</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Romance"><a href="/genres/romance" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Romance.0">Romance</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Science"><a href="/genres/science" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Science.0">Science</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Science Fiction"><a href="/genres/science-fiction" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Science Fiction.0">Science Fiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Self Help"><a href="/genres/self-help" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Self Help.0">Self Help</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Sports"><a href="/genres/sports" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Sports.0">Sports</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Thriller"><a href="/genres/thriller" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Thriller.0">Thriller</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Travel"><a href="/genres/travel" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Travel.0">Travel</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Young Adult"><a href="/genres/young-adult" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Young Adult.0">Young Adult</a></li><li role="menuitem" class="genreList__genre" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList2.1"><a href="/genres" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".x2ufuhdk3k.2.0.0.0.2.0.1.0.1.0.1:$genreList2.1.0">More Genres</a></li></ul></div></div></div></div></div></li><li class="siteHeader__topLevelItem siteHeader__topLevelItem--community" data-reactid=".x2ufuhdk3k.2.0.0.0.3"><div class="primaryNavMenu ignore-react-onclickoutside" data-reactid=".x2ufuhdk3k.2.0.0.0.3.0"><a class="primaryNavMenu__trigger" href="/group?ref=nav_comm" role="button" aria-haspopup="true" aria-expanded="false" data-ux-click="true" data-reactid=".x2ufuhdk3k.2.0.0.0.3.0.0"><span data-reactid=".x2ufuhdk3k.2.0.0.0.3.0.0.0">Community ▾</span></a><div class="primaryNavMenu__menu gr-box gr-box--withShadowLarge" role="menu" data-reactid=".x2ufuhdk3k.2.0.0.0.3.0.1"><ul class="siteHeader__subNav" data-reactid=".x2ufuhdk3k.2.0.0.0.3.0.1.0"><li role="menuitem" class="menuLink" data-reactid=".x2ufuhdk3k.2.0.0.0.3.0.1.0.0"><a href="/group?ref=nav_comm_groups" class="siteHeader__subNavLink" data-reactid=".x2ufuhdk3k.2.0.0.0.3.0.1.0.0.0">Groups</a></li><li role="menuitem" class="menuLink" data-reactid=".x2ufuhdk3k.2.0.0.0.3.0.1.0.1"><a href="/topic?ref=nav_comm_discuss" class="siteHeader__subNavLink" data-reactid=".x2ufuhdk3k.2.0.0.0.3.0.1.0.1.0">Discussions</a></li><li role="menuitem" class="menuLink" data-reactid=".x2ufuhdk3k.2.0.0.0.3.0.1.0.2"><a href="/quotes?ref=nav_comm_quotes" class="siteHeader__subNavLink" data-reactid=".x2ufuhdk3k.2.0.0.0.3.0.1.0.2.0">Quotes</a></li><li role="menuitem" class="menuLink" data-reactid=".x2ufuhdk3k.2.0.0.0.3.0.1.0.3"><a href="/ask_the_author?ref=nav_comm_askauthor" class="siteHeader__subNavLink" data-reactid=".x2ufuhdk3k.2.0.0.0.3.0.1.0.3.0">Ask the Author</a></li></ul></div></div></li></ul></nav></div></div></header></div>
+</div>
+<div class='siteHeaderBottomSpacer'></div>
+
+  
+
+  <div class="mainContentContainer ">
+
+
+      
+
+    <div class="mainContent ">
+        <div id="premiumAdTop">
+
+          <div data-react-class="ReactComponents.GoogleBannerAd" data-react-props="{&quot;adId&quot;:&quot;&quot;,&quot;className&quot;:&quot;googleBannerAd--pushdown&quot;}"></div>
+
+        </div>
+      
+      <div class="mainContentFloat ">
+
+        <div id="flashContainer">
+
+
+
+
+</div>
+
+        
+
+
+
+
+
+
+
+
+
+  <div class='ctaBannerShown'>
+<div class='ctaHeader'>
+Goodreads helps you keep track of books you want to read.
+</div>
+<div>
+Start by marking “Ain't No Grave: The Life and Legacy of Brother Claude Ely” as Want to Read:
+</div>
+<div class='ctaButton'>
+<div class='wtrButtonContainer wtrSignedOut' id='1_book_10757346'>
+<div class='wtrUp wtrLeft'>
+<form action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="h2Osjp1EKQ/scH4W9Hgu8swFLZ9SiAnXsIu9GThNA8J6EiBJWHQ2gcRriXTX9ueimNeaptWkWn8hS+qdhzVeDg==" />
+<input type="hidden" name="book_id" id="book_id" value="10757346" />
+<input type="hidden" name="name" id="name" value="to-read" />
+<input type="hidden" name="unique_id" id="unique_id" value="1_book_10757346" />
+<input type="hidden" name="wtr_new" id="wtr_new" value="true" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="ref" id="ref" value="" class="wtrLeftUpRef" />
+<input type="hidden" name="existing_review" id="existing_review" value="false" class="wtrExisting" />
+<input type="hidden" name="page_url" id="page_url" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form class="hiddenShelfForm" action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="h9PvPJo/SbhvGp/M7slIslbwSaV0vVznc6eKrFze30Z6omP7Xw9WNkcBaK7NR4HiAiL+nPORD0/iZ90o46aCig==" />
+<input type="hidden" name="unique_id" id="unique_id" value="1_book_10757346" />
+<input type="hidden" name="book_id" id="book_id" value="10757346" />
+<input type="hidden" name="a" id="a" />
+<input type="hidden" name="name" id="name" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="page_url" id="page_url" />
+</form>
+
+<button class='wtrShelfButton'></button>
+<div class='wtrShelfMenu'>
+<ul class='wtrExclusiveShelves'>
+<li><button class='wtrExclusiveShelf' name='name' type='submit' value='to-read'>
+<span class='progressTrigger'>Want to Read</span>
+<img alt="saving…" class="progressIndicator" src="https://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif" />
+</button>
+</li>
+<li><button class='wtrExclusiveShelf' name='name' type='submit' value='currently-reading'>
+<span class='progressTrigger'>Currently Reading</span>
+<img alt="saving…" class="progressIndicator" src="https://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif" />
+</button>
+</li>
+<li><button class='wtrExclusiveShelf' name='name' type='submit' value='read'>
+<span class='progressTrigger'>Read</span>
+<img alt="saving…" class="progressIndicator" src="https://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif" />
+</button>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+
+</div>
+</div>
+<div class='ctaBannerTriangle'></div>
+
+
+<div class="leftContainer" itemscope itemtype="http://schema.org/Book">
+<div id="topcol" class="last col stacked">
+
+
+<div id="imagecol" class="col">
+  <div class="bookCoverContainer">
+    <div class="bookCoverPrimary">
+          <a rel="nofollow" itemprop="image" href="/book/photo/10757346-ain-t-no-grave"><img id="coverImage" alt="Ain&#39;t No Grave: The Life and Legacy of Brother Claude Ely" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348130424l/10757346.jpg" /></a>
+    </div>
+    <div class="bookCoverActions">
+      <div class="coverButtonContainer">
+        <div class="coverButton">
+          <a href="https://www.goodreads.com/work/editions/15105182-ain-t-no-grave-the-life-and-legacy-of-brother-claude-ely">Other editions</a>
+        </div>
+      </div>
+        <div class="coverButtonContainer">
+          <div class="coverButton enlargeCover" id="edition_10757346_enlarge">
+            Enlarge cover
+          </div>
+          <div class="editionCover" id="edition_10757346_enlarge_cover" style= "display: none;">
+            <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348130424l/10757346.jpg" alt="10757346" />
+          </div>
+        </div>
+    </div>
+  </div>
+
+      <div class='wtrButtonContainer wtrSignedOut' id='2_book_10757346'>
+<div class='wtrUp wtrLeft'>
+<form action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="wHbMhWutd8J+CUhCrzc1zcTS/rVtYSpMm4adt22GyxQ9B0BCrp1oTFYSvyCMufydkABJjOpNeeQKRsoz0v6W2A==" />
+<input type="hidden" name="book_id" id="book_id" value="10757346" />
+<input type="hidden" name="name" id="name" value="to-read" />
+<input type="hidden" name="unique_id" id="unique_id" value="2_book_10757346" />
+<input type="hidden" name="wtr_new" id="wtr_new" value="true" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="ref" id="ref" value="bm_bsh_wtrwtr" class="wtrLeftUpRef" />
+<input type="hidden" name="existing_review" id="existing_review" value="false" class="wtrExisting" />
+<input type="hidden" name="page_url" id="page_url" value="/book/show/10757346-ain-t-no-grave" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form class="hiddenShelfForm" action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="IJpxnK9UTX48C308z6uvEEAZ8ZDZDKtDxrMNXLGdOJ7d6/1bamRS8BQQil7sJWZAFMtGqV4g+OtXc1rYDuVlUg==" />
+<input type="hidden" name="unique_id" id="unique_id" value="2_book_10757346" />
+<input type="hidden" name="book_id" id="book_id" value="10757346" />
+<input type="hidden" name="a" id="a" />
+<input type="hidden" name="name" id="name" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="ref" id="ref" value="bm_bsh_wtres" class="wtrRefRightShelfMenu" />
+<input type="hidden" name="existing_review" id="existing_review" value="false" class="wtrExisting" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="page_url" id="page_url" value="/book/show/10757346-ain-t-no-grave" />
+</form>
+
+<button class='wtrShelfButton'></button>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-resource-id="10757346" data-user-id="0" data-submit-url="/review/rate/10757346?page_url=%2Fbook%2Fshow%2F10757346-ain-t-no-grave&stars_click=true&wtr_button_id=2_book_10757346" data-rating="0"><a class="star off" title="did not like it" href="#" ref="bm_rtg_st1_bsh">1 of 5 stars</a><a class="star off" title="it was ok" href="#" ref="bm_rtg_st2_bsh">2 of 5 stars</a><a class="star off" title="liked it" href="#" ref="bm_rtg_st3_bsh">3 of 5 stars</a><a class="star off" title="really liked it" href="#" ref="bm_rtg_st4_bsh">4 of 5 stars</a><a class="star off" title="it was amazing" href="#" ref="bm_rtg_st5_bsh">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+
+
+  <div class=asyncPreviewButtonContainer data-book-id=10757346 >
+    
+
+<a class="gr-button kcrPreviewButton buyableFeature asyncPreviewButton" id="js-kcrPreviewButton" data-book-id="10757346" href="#">Open Preview</a>
+
+<div id="wrongBookKindlePreviewScreenBook10757346" class="wrongBookKindlePreviewScreen" style="display: none;">
+  <div class="wrongBookBody">
+    <h2>See a Problem?</h2>
+    <div class="wrongBookText">
+      <div class="description">
+        We’d love your help.
+        Let us know what’s wrong with this preview of
+          <cite>Ain't No Grave</cite> by Macel Ely II.
+      </div>
+      <form class="new_kindle_book_mapping_flag" id="new_kindle_book_mapping_flag" action="/kindle_book_mapping_flags" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+        <div class="reasons">
+          <label for="kindle_book_mapping_flag_reason">Problem:</label>
+          <select name="kindle_book_mapping_flag[reason]" id="kindle_book_mapping_flag_reason"><option value="wrongBook">It’s the wrong book</option>
+<option value="wrongEdition">It’s the wrong edition</option>
+<option value="other">Other</option></select>
+          <br/>
+        </div>
+        <div class="otherReason">
+          <label for="kindle_book_mapping_flag_other_reason">Details (if other):</label>
+          <input type="text" name="kindle_book_mapping_flag[other_reason]" id="kindle_book_mapping_flag_other_reason" />
+        </div>
+        <input value="10757346" type="hidden" name="kindle_book_mapping_flag[book_id]" id="kindle_book_mapping_flag_book_id" />
+        <input type="submit" name="commit" value="Report Problem" class="gr-button" />
+        &nbsp;
+        <button type="button"
+                id="js-wrongBookKindlePreviewScreenCancelLink"
+                class="gr-buttonAsLink gr-buttonAsLink--quiet">
+        Cancel
+        </button>
+</form>    </div>
+  </div>
+</div>
+<div id="js-wrongBookKindlePreviewScreenConfirmation"
+     class="wrongBookKindlePreviewScreenConfirmation"
+     style="display:none;">
+  <p>Thanks for telling us about the problem.</p>
+  <button type="button" class="gr-button" id="js-wrongBookKindlePreviewScreenConfirmationDismiss">
+    Return to Book Page
+  </button>
+</div>
+<div id="kindleCloudReaderBook10757346" class="kindleCloudReader" style="display: none;">
+  <div class="topBanner">
+    <a id="wrongBookLink" class="js-wrongBookKindlePreview" data-book-id="10757346" href="#">Not the book you’re looking for?</a>
+    <h2 class="kindlePreviewHeader">
+      Preview — <cite>Ain't No Grave</cite>
+        by Macel Ely II
+    </h2>
+  </div>
+  <iframe id="kindleCloudReader">
+    <iframe id="wrongBookKindlePreviewScreen"></iframe>
+  </iframe>
+</div>
+
+</div>
+
+
+
+</div>
+
+<div id="metacol" class="last col">
+<h1 id="bookTitle" class="gr-h1 gr-h1--serif" itemprop="name">
+      Ain't No Grave: The Life and Legacy of Brother Claude Ely
+</h1>
+<h2 id="bookSeries">
+</h2>
+
+<div id="bookAuthors" class="">
+  <span class='by'>by</span>
+<span itemprop='author' itemscope='' itemtype='http://schema.org/Person'>
+<div class='authorName__container'>
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/4577916.Macel_Ely_II"><span itemprop="name">Macel Ely II</span></a>
+</div>
+</span>
+
+</div>
+
+<div id="bookMeta"
+     class="uitext stacked"
+     style="position: relative"
+     itemprop="aggregateRating"
+     itemscope
+     itemtype="https://schema.org/AggregateRating">
+      <!--
+Partial expects the following locals:
+  - review_stats
+  - shelving_stats
+  - display_user_id
+-->
+
+<span class="stars staticStars notranslate"><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p3"></span></span>
+<span itemprop="ratingValue">
+  4.13
+</span>
+<span class="greyText">&nbsp;&middot;&nbsp;</span>
+<a id="rating_details" class="actionLinkLite" style="cursor: pointer; " href="#" onclick="return false">Rating details</a><script>
+//<![CDATA[
+      var newTip = new Tip($('rating_details'), "\n    <div id=\"moreBookData\" class=\"bookMeta\" >\n  \n\n  \n\n<table border=\"0\" id=\"rating_distribution\" style=\"width: auto; max-width: 500px;\" cellspacing=\"5\" cellpadding=\"0\">\n      <tr>\n        <th width=\"25\" class=\"right\">5&nbsp;<a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"><\/a><\/th>\n        <td width=\"350\">\n          <div style=\"display: block; background-color: #215625; width: 100%;\" title=\"14 ratings\" data-remote=\"true\">&nbsp;<\/div>\n        <\/td>\n        <td width=\"90\">\n          46% (14)\n        <\/td>\n      <\/tr>\n      <tr>\n        <th width=\"25\" class=\"right\">4&nbsp;<a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"><\/a><\/th>\n        <td width=\"350\">\n          <div style=\"display: block; background-color: #215625; width: 57%;\" title=\"8 ratings\" data-remote=\"true\">&nbsp;<\/div>\n        <\/td>\n        <td width=\"90\">\n          26% (8)\n        <\/td>\n      <\/tr>\n      <tr>\n        <th width=\"25\" class=\"right\">3&nbsp;<a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"><\/a><\/th>\n        <td width=\"350\">\n          <div style=\"display: block; background-color: #215625; width: 42%;\" title=\"6 ratings\" data-remote=\"true\">&nbsp;<\/div>\n        <\/td>\n        <td width=\"90\">\n          20% (6)\n        <\/td>\n      <\/tr>\n      <tr>\n        <th width=\"25\" class=\"right\">2&nbsp;<a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"><\/a><\/th>\n        <td width=\"350\">\n          <div style=\"display: block; background-color: #215625; width: 14%;\" title=\"2 ratings\" data-remote=\"true\">&nbsp;<\/div>\n        <\/td>\n        <td width=\"90\">\n          6% (2)\n        <\/td>\n      <\/tr>\n      <tr>\n        <th width=\"25\" class=\"right\">1&nbsp;<a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"><\/a><\/th>\n        <td width=\"350\">\n          <div style=\"display: block; background-color: #215625; width: 0%;\" title=\"0 ratings\" data-remote=\"true\">&nbsp;<\/div>\n        <\/td>\n        <td width=\"90\">\n          0% (0)\n        <\/td>\n      <\/tr>\n\n<\/table>\n\n\n    <span class=\"value\">93<\/span>% of people liked it\n\n  <table>\n    <tr>\n      <td><strong>All editions:<\/strong><\/td>\n      <td>\n        <span class=\"value\">4.13<\/span> average rating,\n        <span class=\"value\">30<\/span> ratings,\n        <span class=\"value\">8<\/span> reviews,\n        added by <span class=\"value\">529<\/span> people,\n        <span class=\"value\">478<\/span> to-reads\n      <\/td>\n    <\/tr>\n\n      <tr>\n        <td><strong>This edition:<\/strong><\/td>\n        <td>\n          <span class=\"value\">4.13<\/span> average rating,\n          <span class=\"value\">30<\/span> ratings,\n          <span class=\"value\">8<\/span> reviews,\n          added by <span class=\"value\">529<\/span> people\n        <\/td>\n      <\/tr>\n  <\/table>\n<\/div>\n\n", { style: 'goodreads', stem: 'topMiddle', hook: { tip: 'topMiddle', target: 'bottomMiddle' }, offset: { x: 5, y: 5 }, hideOn: 'click', showOn: 'click', closeButton: true, title: 'Rating details' });
+      $('rating_details').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+      $('rating_details').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]>
+</script><span class="greyText">&nbsp;&middot;&nbsp;</span>
+<a class="gr-hyperlink" href="#other_reviews">
+  <meta itemprop="ratingCount" content="30" />
+  30
+  ratings
+</a><span class="greyText">&nbsp;&middot;&nbsp;</span>
+<a class="gr-hyperlink" href="#other_reviews">
+    <meta itemprop="reviewCount" content="8" />
+    8
+    reviews
+</a>
+</div>
+
+<div id="descriptionContainer">
+  
+      <div id="description" class="readable stacked" style="right:0">
+        
+<span id="freeTextContainer1810311277789031821">Once described as the King Recording Label's "Gospel Ranger," Brother Claude Ely (1922-1978) was known and loved throughout the Appalachian mountains as both a religious singer-songwriter and a Pentecostal-Holiness preacher. <br/><br/>Few people, however, knew the details of his childhood, military service and years of hard toil in the coal fields of southwestern Virginia. What Ely </span>
+  <span id="freeText1810311277789031821" style="display:none">Once described as the King Recording Label's "Gospel Ranger," Brother Claude Ely (1922-1978) was known and loved throughout the Appalachian mountains as both a religious singer-songwriter and a Pentecostal-Holiness preacher. <br /><br />Few people, however, knew the details of his childhood, military service and years of hard toil in the coal fields of southwestern Virginia. What Ely was known for was his brilliance as a preacher and his songwriting gifts. Through the enormous popularity of songs like "There Ain't No Grave Gonna Hold My Body Down," Brother Claude Ely bequeathed a musical and spiritual influence that continues to resonate throughout the Appalachians and in gospel music today. <br /><br />Authored by Ely's great-nephew Macel Ely, "Ain't No Grave: The Life and Legacy of Brother Claude Ely" is an oral biography composed from recorded interviews with more than 1,000 people in the Appalachian Mountains who knew Brother Claude Ely. An accompanying CD collects two recordings of "There Ain't No Grave" alongside other songs and sermons.<br /><br />With CD (Audio</span>
+  <a data-text-id="1810311277789031821" href="#" onclick="swapContent($(this));; return false;">...more</a>
+
+      </div>
+</div>
+
+    <div id=buyButtonContainer class="uitext buttons buyableFeature u-marginTopXSmall u-paddingBottomXSmall u-bottomGrayBorder" data-book-id=10757346 >
+
+    <div class="u-positionRelative">
+      <h2 class='buyButtonContainer__title u-inlineBlock'%>Get A Copy</h2>
+    </div>
+
+    <ul class="buyButtonBar left"><li><a class="buttonBar" target="_blank" rel="no_follow noopener noreferrer" id="buyButton" href="/buy_buttons/2/follow?book_id=10757346&amp;page_type=book&amp;page_type_id=10757346&amp;sub_page_type=show">InMondadori</a></li><li><div id="buyDropButtonStores" class=" dropButton" onmouseover="$(this).down(&#39;.floatingBox&#39;).show()" onmouseout="$(this).down(&#39;.floatingBox&#39;).hide()"><a class="buttonBar" url="/book/10757346/get_a_copy" href="/book/10757346/get_a_copy">Online Stores&nbsp;&#9662;</a><div class="floatingBox buyBox" style="display:none"><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/1?book_id=10757346&amp;page_type=book&amp;page_type_id=10757346&amp;source=dropdown&amp;sub_page_type=show">Amazon</a><br/><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/10?book_id=10757346&amp;page_type=book&amp;page_type_id=10757346&amp;source=dropdown&amp;sub_page_type=show">Audible</a><br/><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/3?book_id=10757346&amp;page_type=book&amp;page_type_id=10757346&amp;source=dropdown&amp;sub_page_type=show">Barnes &amp; Noble</a><br/><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/1027?book_id=10757346&amp;page_type=book&amp;page_type_id=10757346&amp;source=dropdown&amp;sub_page_type=show">Walmart eBooks</a><br/><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/2102?book_id=10757346&amp;page_type=book&amp;page_type_id=10757346&amp;source=dropdown&amp;sub_page_type=show">Apple Books</a><br/><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/8036?book_id=10757346&amp;page_type=book&amp;page_type_id=10757346&amp;source=dropdown&amp;sub_page_type=show">Google Play</a><br/><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/4?book_id=10757346&amp;page_type=book&amp;page_type_id=10757346&amp;source=dropdown&amp;sub_page_type=show">Abebooks</a><br/><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/882?book_id=10757346&amp;page_type=book&amp;page_type_id=10757346&amp;source=dropdown&amp;sub_page_type=show">Book Depository</a><br/><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/5?book_id=10757346&amp;page_type=book&amp;page_type_id=10757346&amp;source=dropdown&amp;sub_page_type=show">Alibris</a><br/><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/9?book_id=10757346&amp;page_type=book&amp;page_type_id=10757346&amp;source=dropdown&amp;sub_page_type=show">Indigo</a><br/><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/107?book_id=10757346&amp;page_type=book&amp;page_type_id=10757346&amp;source=dropdown&amp;sub_page_type=show">Better World Books</a><br/><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/7?book_id=10757346&amp;page_type=book&amp;page_type_id=10757346&amp;source=dropdown&amp;sub_page_type=show">IndieBound</a></div></div></li><li><a target="_blank" rel="nofollow noopener noreferrer" class="buttonBar" href="/book_link/follow/8?book_id=10757346&amp;page_type=book&amp;page_type_id=10757346&amp;sub_page_type=show">Libraries</a></li></ul>
+    <div class="clear"></div>
+  </div>
+
+
+<div id="details" class="uitext darkGreyText">
+      <div class="row"><span itemprop="bookFormat">Hardcover</span>, <span itemprop="numberOfPages">345 pages</span></div>
+
+      <div class="row">
+            Published
+        March 31st 2011
+         by Dust to Digital
+
+            <nobr class="greyText">
+              (first published December 2010)
+            </nobr>
+      </div>
+
+  <div class="buttons">
+    <a id="bookDataBoxShow" class="left inter actionLinkLite" style="" href="#" onclick="$j(&#39;#bookDataBoxShow&#39;).hide(); $j(&#39;#bookDataBoxHide&#39;).show(); $j(&#39;#bookDataBox&#39;).show();
+                         ; return false;">More Details...</a>
+
+        <div id="bookDataBox" class="uitext" style="display: none; margin: 10px 0">
+
+              <div class="clearFloats">
+                <div class="infoBoxRowTitle">Original Title</div>
+                <div class="infoBoxRowItem">Ain't No Grave: The Life and Legacy of Brother Claude Ely</div>
+              </div>
+              <div class="clearFloats">
+                <div class="infoBoxRowTitle">ISBN</div>
+                <div class="infoBoxRowItem">
+                  0981734227
+                      <span class="greyText">(ISBN13: <span itemprop='isbn'>9780981734224</span>)</span>
+                </div>
+              </div>
+
+              <div class="clearFloats">
+                <div class="infoBoxRowTitle">Edition Language</div>
+                <div class="infoBoxRowItem" itemprop='inLanguage'>English</div>
+              </div>
+
+
+
+
+
+          <div class="clear"></div>
+
+          <div class='infoBoxRowTitle otherEditions'>
+Other Editions
+</div>
+<div class='infoBoxRowItem'>
+<div class='darkGreyText noEditionsText uitext'>
+None found
+</div>
+<div class='otherEditionsActions'>
+<a class="actionLinkLite" href="/work/editions/15105182-ain-t-no-grave-the-life-and-legacy-of-brother-claude-ely">All Editions</a>
+<span class='greyText'>
+ | 
+</span>
+<a rel="nofollow" href="/book/new?author%5Bname%5D=Macel+Ely+II&amp;book%5Btitle%5D=Ain%27t+No+Grave%3A+The+Life+and+Legacy+of+Brother+Claude+Ely&amp;work%5Bid%5D=15105182">Add a New Edition</a>
+
+<span class='secondaryCopy'>
+ | 
+</span>
+<a rel="nofollow" class="actionLinkLite" href="/book/combine/4577916">Combine</a>
+</div>
+</div>
+
+
+        </div>
+
+        <a id="bookDataBoxHide" class="left inter actionLinkLite" style="display: none;" href="#" onclick="$j(&#39;#bookDataBoxShow&#39;).show(); $j(&#39;#bookDataBoxHide&#39;).hide(); $j(&#39;#bookDataBox&#39;).hide();
+                              ; return false;">...Less Detail</a>
+
+         <a class="inter uitext greyText right" rel="nofollow" href="/book/edit/10757346-ain-t-no-grave">Edit Details</a>
+
+    <div class="clear"></div>
+  </div>
+</div>
+
+
+</div>
+
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+
+
+  <div id='lazy_loadable_view'>
+    
+
+<a name='friends_reviews'></a>
+<div id="friendReviews" class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground">Friend Reviews</h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent"><span class='mediumText'>
+To see what your friends thought of this book,
+<a class="actionLink" rel="nofollow" href="/user/new">please sign up.</a>
+</span>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div>
+
+<div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground">Reader Q&amp;A</h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent"><div class='communityQASignedOutMessage mediumText'>
+To ask other readers questions about
+<a class="bookLink" href="/book/show/10757346-ain-t-no-grave">Ain&#39;t No Grave</a>,
+<a class="actionLink" rel="nofollow" href="/user/new">please sign up</a>.
+</div>
+
+<div class='noQuestionsMessage'>
+<p>
+Be the first to ask a question about Ain't No Grave
+</p>
+</div>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div><div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><a href="/list/book/10757346">Lists with This Book</a></h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent">  <div class="listRowsFull">
+    <div class="row" id="topRow">
+          <div class="cell">
+            
+<div class="listImgs">
+  <a href="/list/show/8342.You_Read_a_Book_about_What_"><img alt="Stiff by Mary Roach" title="Stiff by Mary Roach" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347656489l/32145._SX98_.jpg" /></a><a href="/list/show/8342.You_Read_a_Book_about_What_"><img alt="Salt by Mark Kurlansky" title="Salt by Mark Kurlansky" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414608893l/2715._SX98_.jpg" /></a><a href="/list/show/8342.You_Read_a_Book_about_What_"><img alt="The Professor and the Madman by Simon Winchester" title="The Professor and the Madman by Simon Winchester" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407110918l/25019._SX98_.jpg" /></a><a href="/list/show/8342.You_Read_a_Book_about_What_"><img alt="Eats, Shoots &amp; Leaves by Lynne Truss" title="Eats, Shoots &amp; Leaves by Lynne Truss" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473392595l/8600._SX98_.jpg" /></a><a href="/list/show/8342.You_Read_a_Book_about_What_"><img alt="The Immortal Life of Henrietta Lacks by Rebecca Skloot" title="The Immortal Life of Henrietta Lacks by Rebecca Skloot" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327878144l/6493208._SX98_.jpg" /></a>
+</div>
+<a class="listTitle" href="/list/show/8342.You_Read_a_Book_about_What_">You Read a Book about What?</a><br />
+<div class="listFullDetails">
+    1,949 books
+    &mdash;
+    1,384 voters
+
+
+
+</div>
+
+          </div>
+          <div class="cell">
+            
+<div class="listImgs">
+  <a href="/list/show/3428.Exceptional_Photography_Books_"><img alt="Brassai by Brassaï" title="Brassai by Brassaï" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344267864l/679940._SX98_.jpg" /></a><a href="/list/show/3428.Exceptional_Photography_Books_"><img alt="The Americans by Robert  Frank" title="The Americans by Robert  Frank" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395688905l/585707._SX98_.jpg" /></a><a href="/list/show/3428.Exceptional_Photography_Books_"><img alt="Ansel Adams by Ansel Adams" title="Ansel Adams by Ansel Adams" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389555193l/20503._SX98_.jpg" /></a><a href="/list/show/3428.Exceptional_Photography_Books_"><img alt="Let Us Now Praise Famous Men by James Agee" title="Let Us Now Praise Famous Men by James Agee" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439263072l/382506._SX98_.jpg" /></a><a href="/list/show/3428.Exceptional_Photography_Books_"><img alt="Diane Arbus by Diane Arbus" title="Diane Arbus by Diane Arbus" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1584660805l/134360._SX98_.jpg" /></a>
+</div>
+<a class="listTitle" href="/list/show/3428.Exceptional_Photography_Books_">Exceptional Photography Books*</a><br />
+<div class="listFullDetails">
+    479 books
+    &mdash;
+    180 voters
+
+
+
+</div>
+
+          </div>
+    </div>
+  </div>
+<br class="clear" />
+
+<br class='clear'>
+<a class="actionLink" style="float:right" href="/list/book/10757346">More lists with this book...</a>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div><div id="other_reviews" class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground">Community Reviews</h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent"><div id='reviews'>
+
+<div class="bookReviewsPaginationCount">
+    <span class="smallText">
+Showing 1-30
+</span>
+
+</div>
+
+
+<div id="reviewControls"
+     class="reviewControls u-defaultType clearFix">
+  <div class="reviewControls--left">
+    <span class="stars staticStars notranslate"><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p3"></span></span>
+    <span class="u-visuallyHidden">Average rating</span>
+    4.13
+    <span class="greyText">&nbsp;&middot;&nbsp;</span>
+  </div>
+  <div class="reviewControls__ratingDetails reviewControls--left rating_graph">
+    <span id="reviewControls__ratingDetailsMiniGraph">
+    <script type="text/javascript">
+    //<![CDATA[
+      $j(document).ready(function() {
+        var vis = renderRatingGraph(
+            [14, 8, 6, 2, 0],
+            "reviewControls__ratingDetailsMiniGraph");
+        $j("#reviewControls__ratingDetailsMiniGraph").prependTo("#rating_details_tip");
+      });
+    //]]>
+    </script>
+    </span>
+    <a id="rating_details_tip" class="gr-hyperlink" style="cursor: pointer; " href="#" onclick="return false"> Rating details</a><script>
+//<![CDATA[
+      var newTip = new Tip($('rating_details_tip'), "\n        <div id=\"moreBookData\" class=\"bookMeta\" >\n  \n\n  \n\n<table border=\"0\" id=\"rating_distribution\" style=\"width: auto; max-width: 500px;\" cellspacing=\"5\" cellpadding=\"0\">\n      <tr>\n        <th width=\"25\" class=\"right\">5&nbsp;<a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"><\/a><\/th>\n        <td width=\"350\">\n          <a style=\"display: block; background-color: #215625; width: 100%;\" title=\"14 ratings\" href=\"#\" onclick=\"new Ajax.Request(\'/book/reviews/10757346-ain-t-no-grave?rating=5\', {asynchronous:true, evalScripts:true, method:\'get\', parameters:\'authenticity_token=\' + encodeURIComponent(\'3SvLF8f7ZPJzfp/ucoI09a+9AHxQFIeXEHJ4o1XM3fIgWkfQAst7fFtlaIxRDP2l+2+3Rdc41D+Bsi8n6rSAPg==\')})\" data-remote=\"true\">&nbsp;<\/a>\n        <\/td>\n        <td width=\"90\">\n          46% (14)\n        <\/td>\n      <\/tr>\n      <tr>\n        <th width=\"25\" class=\"right\">4&nbsp;<a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"><\/a><\/th>\n        <td width=\"350\">\n          <a style=\"display: block; background-color: #215625; width: 57%;\" title=\"8 ratings\" href=\"#\" onclick=\"new Ajax.Request(\'/book/reviews/10757346-ain-t-no-grave?rating=4\', {asynchronous:true, evalScripts:true, method:\'get\', parameters:\'authenticity_token=\' + encodeURIComponent(\'7MPq5ufjJ1hEi4UqK1KbtMmnabQTWtksE727tpGHJocRsmYhItM41myQckgI3FLknXXejZR2ioSCfewyLv97Sw==\')})\" data-remote=\"true\">&nbsp;<\/a>\n        <\/td>\n        <td width=\"90\">\n          26% (8)\n        <\/td>\n      <\/tr>\n      <tr>\n        <th width=\"25\" class=\"right\">3&nbsp;<a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"><\/a><\/th>\n        <td width=\"350\">\n          <a style=\"display: block; background-color: #215625; width: 42%;\" title=\"6 ratings\" href=\"#\" onclick=\"new Ajax.Request(\'/book/reviews/10757346-ain-t-no-grave?rating=3\', {asynchronous:true, evalScripts:true, method:\'get\', parameters:\'authenticity_token=\' + encodeURIComponent(\'EuUMCa7Ozav8sXN4pYrVCXRpGwG+dsoW3+Shiq63tOjvlIDOa/7SJdSqhBqGBBxZILusODlamb5OJPYOEc/pJA==\')})\" data-remote=\"true\">&nbsp;<\/a>\n        <\/td>\n        <td width=\"90\">\n          20% (6)\n        <\/td>\n      <\/tr>\n      <tr>\n        <th width=\"25\" class=\"right\">2&nbsp;<a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"><\/a><\/th>\n        <td width=\"350\">\n          <a style=\"display: block; background-color: #215625; width: 14%;\" title=\"2 ratings\" href=\"#\" onclick=\"new Ajax.Request(\'/book/reviews/10757346-ain-t-no-grave?rating=2\', {asynchronous:true, evalScripts:true, method:\'get\', parameters:\'authenticity_token=\' + encodeURIComponent(\'NjnTNw4HadkG45FMo2FY6p7FB6PDCbcpj3wUX1waiobLSF/wyzd2Vy74Zi6A75G6yhewmkQl5IEevEPb42LXSg==\')})\" data-remote=\"true\">&nbsp;<\/a>\n        <\/td>\n        <td width=\"90\">\n          6% (2)\n        <\/td>\n      <\/tr>\n      <tr>\n        <th width=\"25\" class=\"right\">1&nbsp;<a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"><\/a><\/th>\n        <td width=\"350\">\n          <a style=\"display: block; background-color: #215625; width: 0%;\" title=\"0 ratings\" href=\"#\" onclick=\"new Ajax.Request(\'/book/reviews/10757346-ain-t-no-grave?rating=1\', {asynchronous:true, evalScripts:true, method:\'get\', parameters:\'authenticity_token=\' + encodeURIComponent(\'To1veFMTP73cZYkBCz4ifvH9ArkJlfmeIxL9rbnzZgqz/OO/liMgM/R+fmMosOsupS+1gI65qjay0qopBos7xg==\')})\" data-remote=\"true\">&nbsp;<\/a>\n        <\/td>\n        <td width=\"90\">\n          0% (0)\n        <\/td>\n      <\/tr>\n\n<\/table>\n\n\n    <span class=\"value\">93<\/span>% of people liked it\n\n  <table>\n    <tr>\n      <td><strong>All editions:<\/strong><\/td>\n      <td>\n        <span class=\"value\">4.13<\/span> average rating,\n        <span class=\"value\">30<\/span> ratings,\n        <span class=\"value\">8<\/span> reviews,\n        added by <span class=\"value\">529<\/span> people,\n        <span class=\"value\">478<\/span> to-reads\n      <\/td>\n    <\/tr>\n\n      <tr>\n        <td><strong>This edition:<\/strong><\/td>\n        <td>\n          <span class=\"value\">4.13<\/span> average rating,\n          <span class=\"value\">30<\/span> ratings,\n          <span class=\"value\">8<\/span> reviews,\n          added by <span class=\"value\">529<\/span> people\n        <\/td>\n      <\/tr>\n  <\/table>\n<\/div>\n\n", { style: 'goodreads', stem: 'topLeft', hook: { tip: 'topLeft', target: 'bottomMiddle' }, offset: { x: 5, y: 5 }, hideOn: false, showOn: 'mouseover', closeButton: false, hideAfter: 1, hideOthers: true, title: 'book data' });
+      $('rating_details_tip').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+      $('rating_details_tip').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]>
+</script>  </div>
+
+  <div class="reviewControls--left greyText">
+    <span class="greyText">&nbsp;&middot;&nbsp;</span>
+    30
+    ratings
+    <span class="greyText">&nbsp;&middot;&nbsp;</span>
+    8
+    reviews
+  </div>
+
+  <br></br>
+  <div class="reviewControls__searchBox reviewControls--right">
+    <form class="reviewTextSearch" action="/book/reviews/10757346" accept-charset="UTF-8" data-remote="true" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+<div class='searchBox'>
+<input type="text" name="search_text" id="search_text" aria-label="Search review text" placeholder="Search review text" class="searchBox__input searchBox__input--reviewSearch reviewControls__searchBox__input" />
+<button name="button" type="submit" class="searchBox__icon searchBox__icon--magnifyingGlass searchBox__icon--reviewSearch gr-iconButton              reviewControls__searchBox__icon                          reviewControls__searchBox__icon--magnifyingGlass"></button>
+<img alt="Loading" class="searchBox__icon searchBox__icon--loadingSpinner reviewControls__searchBox__icon                         reviewControls__searchBox__icon--loadingSpinner" src="https://s.gr-assets.com/assets/loading-45f04d682f1e9151cf1e6fb18a1bde21.gif" />
+</div>
+</form>
+
+
+  </div>
+
+    <div class="reviewControls--left">
+      <form class="reviewLanguageFilter" action="/book/reviews/10757346" accept-charset="UTF-8" data-remote="true" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+        <select name="language_code" id="language_code"><option value="">All Languages</option><option value="en">English &lrm;(8)</option></select>
+</form>    </div>
+
+    <div class="reviewControls--left">
+
+      <a class="uitext" rel="nofollow" id="span_class_gr-hyperlink_more_filters_span_tip_740" style="cursor: pointer; " href="#" onclick="return false"><span class="gr-hyperlink">More filters</span></a><script>
+//<![CDATA[
+      var newTip = new Tip($('span_class_gr-hyperlink_more_filters_span_tip_740'), "\n          <div class=\"greyText smallText\" style=\"white-space:nowrap\">\n\n            <span class=\"loadingLinkSpan\"><a class=\"actionLinkLite greyText loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/10757346-ain-t-no-grave?rating=\">all <span class=\"greyText\">(529)<\/span><\/a><span class=\"loadingAnimation\"><\/span><span class=\"loadingError\"><\/span><\/span>\n\n                <span class=\"greyText\">&nbsp;|&nbsp;<\/span>\n                <span class=\"loadingLinkSpan\">\n                  <a class=\"actionLinkLite loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"#\" onclick=\"new Ajax.Request(&#39;/book/reviews/10757346-ain-t-no-grave?rating=5&#39;, {asynchronous:true, evalScripts:true, method:&#39;get&#39;, parameters:&#39;authenticity_token=&#39; + encodeURIComponent(&#39;Ql44ZZ1ryMkxTVVmxEFTDOr91kkif8/hnJlnmPAKJBi/L7SiWFvXRxlWogTnz5pcvi9hcKVTnEkNWTAcT3J51A==&#39;)}); return false;\">5 stars <span class=\"greyText\">(14)<\/span><\/a>\n                  <span class=\"loadingAnimation\"><\/span>\n                  <span class=\"loadingError\"><\/span>\n                <\/span>\n                <span class=\"greyText\">&nbsp;|&nbsp;<\/span>\n                <span class=\"loadingLinkSpan\">\n                  <a class=\"actionLinkLite loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"#\" onclick=\"new Ajax.Request(&#39;/book/reviews/10757346-ain-t-no-grave?rating=4&#39;, {asynchronous:true, evalScripts:true, method:&#39;get&#39;, parameters:&#39;authenticity_token=&#39; + encodeURIComponent(&#39;MOTu3KDzfNsPKm639ZE/Snnx5/Gk/uMAzMEKgCmKiTfNlWIbZcNjVScxmdXWH/YaLSNQyCPSsKhdAV0ElvLU+w==&#39;)}); return false;\">4 stars <span class=\"greyText\">(8)<\/span><\/a>\n                  <span class=\"loadingAnimation\"><\/span>\n                  <span class=\"loadingError\"><\/span>\n                <\/span>\n                <span class=\"greyText\">&nbsp;|&nbsp;<\/span>\n                <span class=\"loadingLinkSpan\">\n                  <a class=\"actionLinkLite loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"#\" onclick=\"new Ajax.Request(&#39;/book/reviews/10757346-ain-t-no-grave?rating=3&#39;, {asynchronous:true, evalScripts:true, method:&#39;get&#39;, parameters:&#39;authenticity_token=&#39; + encodeURIComponent(&#39;XWHD4Xu1DOb7e0kTuEZE7fv/eg19ZqSMGqRb+OztYaSgEE8mvoUTaNNgvnGbyI29ry3NNPpK9ySLZAx8U5U8aA==&#39;)}); return false;\">3 stars <span class=\"greyText\">(6)<\/span><\/a>\n                  <span class=\"loadingAnimation\"><\/span>\n                  <span class=\"loadingError\"><\/span>\n                <\/span>\n                <span class=\"greyText\">&nbsp;|&nbsp;<\/span>\n                <span class=\"loadingLinkSpan\">\n                  <a class=\"actionLinkLite loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"#\" onclick=\"new Ajax.Request(&#39;/book/reviews/10757346-ain-t-no-grave?rating=2&#39;, {asynchronous:true, evalScripts:true, method:&#39;get&#39;, parameters:&#39;authenticity_token=&#39; + encodeURIComponent(&#39;RHUD15AcVuGWWX65V0rr2fM1sK6L0IYjQhiX57HSurK5BI8QVSxJb75Cidt0xCKJp+cHlwz81YvT2MBjDqrnfg==&#39;)}); return false;\">2 stars <span class=\"greyText\">(2)<\/span><\/a>\n                  <span class=\"loadingAnimation\"><\/span>\n                  <span class=\"loadingError\"><\/span>\n                <\/span>\n                <span class=\"greyText\">&nbsp;|&nbsp;<\/span>\n                <span class=\"loadingLinkSpan\">\n                  <a class=\"actionLinkLite loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"#\" onclick=\"new Ajax.Request(&#39;/book/reviews/10757346-ain-t-no-grave?rating=1&#39;, {asynchronous:true, evalScripts:true, method:&#39;get&#39;, parameters:&#39;authenticity_token=&#39; + encodeURIComponent(&#39;qnLuB1/SW5DQBv+TdyeNfgFTm1gWSb+liA3H4sorBe9XA2LAmuJEHvgdCPFUqUQuVYEsYZFl7A0ZzZBmdVNYIw==&#39;)}); return false;\">1 star <span class=\"greyText\">(0)<\/span><\/a>\n                  <span class=\"loadingAnimation\"><\/span>\n                  <span class=\"loadingError\"><\/span>\n                <\/span>\n          <\/div>\n\n          <div class=\"bookMeta\">\n            editions:\n            <span class=\"loadingLinkSpan\"><a class=\"value loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/10757346-ain-t-no-grave?edition_reviews=false\">all<\/a><span class=\"loadingAnimation\"><\/span><span class=\"loadingError\"><\/span><\/span>\n\n            <span class=\"greyText\">&nbsp;|&nbsp;<\/span>\n            <span class=\"loadingLinkSpan\"><a class=\" loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/10757346-ain-t-no-grave?edition_reviews=true\">this edition<\/a><span class=\"loadingAnimation\"><\/span><span class=\"loadingError\"><\/span><\/span>\n\n            &nbsp;\n            content:\n            <span class=\"loadingLinkSpan\"><a class=\"value loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/10757346-ain-t-no-grave?text_only=false\">any<\/a><span class=\"loadingAnimation\"><\/span><span class=\"loadingError\"><\/span><\/span>\n\n            <span class=\"greyText\">&nbsp;|&nbsp;<\/span>\n            <span class=\"loadingLinkSpan\"><a class=\" loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/10757346-ain-t-no-grave?text_only=true\">text-only<\/a><span class=\"loadingAnimation\"><\/span><span class=\"loadingError\"><\/span><\/span>\n        <\/div>\n", { style: 'goodreads', stem: 'topLeft', hook: { tip: 'topLeft', target: 'bottomMiddle' }, offset: { x: 5, y: 5 }, hideOn: false, showOn: 'mouseover', closeButton: false, hideAfter: 1, hideOthers: true });
+      $('span_class_gr-hyperlink_more_filters_span_tip_740').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+      $('span_class_gr-hyperlink_more_filters_span_tip_740').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]>
+</script>    </div>
+
+    <div class="reviewControls--left">
+      <span class="greyText">&nbsp;|&nbsp;</span>
+    </div>
+      <div class="reviewControls--left">
+      <a class="uitext" id="span_class_gr-hyperlink_sort_order_span_tip_280" style="cursor: pointer; " href="#" onclick="return false"><span class="gr-hyperlink">Sort order</span></a><script>
+//<![CDATA[
+      var newTip = new Tip($('span_class_gr-hyperlink_sort_order_span_tip_280'), "\n        <span class=\"reviewControls__sortOrders\">\n          <span class=\"loadingLinkSpan\"><a class=\"actionLinkLite greyText loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/10757346-ain-t-no-grave?sort=default\">Default<\/a><span class=\"loadingAnimation\"><\/span><span class=\"loadingError\"><\/span><\/span>\n\n          <span class=\"greyText\">&nbsp;|&nbsp;<\/span>\n          <span class=\"loadingLinkSpan\"><a class=\"actionLinkLite  loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/10757346-ain-t-no-grave?sort=newest\">Newest<\/a><span class=\"loadingAnimation\"><\/span><span class=\"loadingError\"><\/span><\/span>\n          <span class=\"greyText\">&nbsp;|&nbsp;<\/span>\n          <span class=\"loadingLinkSpan\"><a class=\"actionLinkLite  loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/10757346-ain-t-no-grave?sort=oldest\">Oldest<\/a><span class=\"loadingAnimation\"><\/span><span class=\"loadingError\"><\/span><\/span>\n        <\/span>\n", { style: 'goodreads', stem: 'topLeft', hook: { tip: 'topLeft', target: 'bottomMiddle' }, offset: { x: 5, y: 5 }, hideOn: false, showOn: 'mouseover', closeButton: false, hideAfter: 1, hideOthers: true });
+      $('span_class_gr-hyperlink_sort_order_span_tip_280').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+      $('span_class_gr-hyperlink_sort_order_span_tip_280').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]>
+</script>    </div>
+</div>
+
+
+
+
+
+
+        <div data-react-class="ReactComponents.ReviewCta" data-react-props="{&quot;bookId&quot;:&quot;10757346&quot;,&quot;user&quot;:{&quot;viewableName&quot;:&quot;&quot;,&quot;profileImage&quot;:&quot;https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png&quot;,&quot;profileUrl&quot;:null},&quot;actionType&quot;:&quot;community_reviews_cta&quot;,&quot;destinationPath&quot;:&quot;/review/edit/10757346&quot;,&quot;bookTitle&quot;:&quot;Ain&#39;t No Grave: The Life and Legacy of Brother Claude Ely&quot;,&quot;ratingClickstreamRef&quot;:&quot;cr_rtg_str_bsh&quot;}"><div class="reviewCta" data-reactid=".1631097ri80" data-react-checksum="-1393870958"><div class="reviewCta__left" data-reactid=".1631097ri80.0"><img class="rectangularIcon rectangularIcon--border" src="https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png" alt="" data-reactid=".1631097ri80.0.0"/></div><div class="reviewCta__right" data-reactid=".1631097ri80.1"><div class="u-marginLeftXSmall reviewCta__label" data-reactid=".1631097ri80.1.0"><noscript data-reactid=".1631097ri80.1.0.0"></noscript><span data-reactid=".1631097ri80.1.0.1">Start your review of </span><span data-reactid=".1631097ri80.1.0.2">Ain&#x27;t No Grave: The Life and Legacy of Brother Claude Ely</span></div><div class="reviewCta__controls" data-reactid=".1631097ri80.1.1"><div class="userRating" data-reactid=".1631097ri80.1.1.0"><div class="userRating__starsWrapper" tabindex="0" role="group" data-reactid=".1631097ri80.1.1.0.1"><button class="userRating__star userRating__star--mediumStars" title="Rate 1 star" data-reactid=".1631097ri80.1.1.0.1.$1"></button><button class="userRating__star userRating__star--mediumStars" title="Rate 2 stars" data-reactid=".1631097ri80.1.1.0.1.$2"></button><button class="userRating__star userRating__star--mediumStars" title="Rate 3 stars" data-reactid=".1631097ri80.1.1.0.1.$3"></button><button class="userRating__star userRating__star--mediumStars" title="Rate 4 stars" data-reactid=".1631097ri80.1.1.0.1.$4"></button><button class="userRating__star userRating__star--mediumStars" title="Rate 5 stars" data-reactid=".1631097ri80.1.1.0.1.$5"></button></div></div><button class="gr-button u-marginTopBottomXSmall reviewCta__writeButton" data-reactid=".1631097ri80.1.1.1">Write a review</button></div></div></div></div>
+
+
+<div id="bookReviews">
+  
+
+
+
+
+  <div class="friendReviews elementListBrown" >
+    <div class="section firstReview">
+      
+
+<div id="review_140874451" class="review" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/140874451" />
+    <a title="James" class="left imgcol" href="/user/show/4812217-james"><img alt="James" src="https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+        <a class="reviewDate createdAt right" href="/review/show/140874451?book_show_action=true">Jan 14, 2011</a>
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="James" class="user" itemprop="url" name="James" href="/user/show/4812217-james">James</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+
+
+
+        
+
+    </div>
+
+
+        <div class="reviewText stacked">
+              <span id="reviewTextContainer140874451" class="readable"
+              >
+            
+<span id="freeTextContainer374742492083224695">I bought this book at <a target='_blank' rel='noopener nofollow' href='http://www.aintnograve.com'>www.aintnograve.com</a><br/><br/>It was a great book, and I would highly recommend it.<br/></span>
+  <span id="freeText374742492083224695" style="display:none">I bought this book at <a target="_blank" rel="noopener nofollow" href="http://www.aintnograve.com">www.aintnograve.com</a><br /><br />It was a great book, and I would highly recommend it.<br /></span>
+  <a data-text-id="374742492083224695" href="#" onclick="swapContent($(this));; return false;">...more</a>
+
+          </span>
+        </div>
+
+
+      <div class="reviewFooter uitext buttons">
+          
+
+<tr class="no_border feedFooterReview" id="update_comment_stuff_Review140874451">
+  <td colspan="2">
+    <div class="updateActionLinks">
+        <a class="right flag" rel="nofollow" id="flag_link140874451" title="Flag this review as inappropriate." href="/flagged/new?resource_id=140874451&amp;resource_type=Review&amp;return_url=%2Fbook%2Fshow%2F10757346-ain-t-no-grave">flag</a>
+
+
+
+
+
+      <span class='likeItContainer' id='like_container_review_140874451'><a id="like_count_review_140874451" rel="nofollow" href="/rating/voters/140874451?resource_type=Review"><span class="likesCount">3 likes</span></a>&nbsp;&middot;&nbsp;<a rel="nofollow" class="jsLike like_it gr-button gr-button--small" href="https://www.goodreads.com/user/new?remember=true&amp;return_url=%2Fbook%2Fshow%2F10757346-ain-t-no-grave">Like</a></span>
+&nbsp;&middot;&nbsp;<a href="/review/show/140874451?book_show_action=true&amp;from_review_page=1">see review</a>
+    </div>
+
+
+    <div id='comments_for_review_140874451' style='display: none;'>
+</div>
+
+  </td>
+</tr>
+
+      </div>
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown" >
+    <div class="section">
+      
+
+<div id="review_140796355" class="review" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/140796355" />
+    <a title="Kelly Burchett" class="left imgcol" href="/user/show/4810800-kelly-burchett"><img alt="Kelly Burchett" src="https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+        <a class="reviewDate createdAt right" href="/review/show/140796355?book_show_action=true">Jan 14, 2011</a>
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Kelly Burchett" class="user" itemprop="url" name="Kelly Burchett" href="/user/show/4810800-kelly-burchett">Kelly Burchett</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+
+
+
+        
+
+    </div>
+
+
+        <div class="reviewText stacked">
+              <span id="reviewTextContainer140796355" class="readable"
+              >
+            
+<span id="freeTextContainer424796233243137304">This book is really touching, and it's amazing the life lessons that I was challenged with in reading it. It's very inspirational, and I loved the author's style of utilizing hundreds of interviews to make one,sweet story. The author made me often feel like I was actually there at these events. Sometimes I would catch myself getting a Kleenex, and other times I found myself chuckling out loud while reading. <br/><br/>The photos were great. The music was precious. It made me long for a simpler time. The bo</span>
+  <span id="freeText424796233243137304" style="display:none">This book is really touching, and it's amazing the life lessons that I was challenged with in reading it. It's very inspirational, and I loved the author's style of utilizing hundreds of interviews to make one,sweet story. The author made me often feel like I was actually there at these events. Sometimes I would catch myself getting a Kleenex, and other times I found myself chuckling out loud while reading. <br /><br />The photos were great. The music was precious. It made me long for a simpler time. The book also challenged me individually to begin recognizing the actions I take today with others. It also stirred a renewal in my faith to be better, to be kinder, and to be more holy.<br /><br />I love mountain stories. This was hillbilly history at its finest! I highly recommend it. I cherished this book and plan on buying a couple more copies for my family members to read, as well.</span>
+  <a data-text-id="424796233243137304" href="#" onclick="swapContent($(this));; return false;">...more</a>
+
+          </span>
+        </div>
+
+
+      <div class="reviewFooter uitext buttons">
+          
+
+<tr class="no_border feedFooterReview" id="update_comment_stuff_Review140796355">
+  <td colspan="2">
+    <div class="updateActionLinks">
+        <a class="right flag" rel="nofollow" id="flag_link140796355" title="Flag this review as inappropriate." href="/flagged/new?resource_id=140796355&amp;resource_type=Review&amp;return_url=%2Fbook%2Fshow%2F10757346-ain-t-no-grave">flag</a>
+
+
+
+
+
+      <span class='likeItContainer' id='like_container_review_140796355'><a id="like_count_review_140796355" rel="nofollow" href="/rating/voters/140796355?resource_type=Review"><span class="likesCount">2 likes</span></a>&nbsp;&middot;&nbsp;<a rel="nofollow" class="jsLike like_it gr-button gr-button--small" href="https://www.goodreads.com/user/new?remember=true&amp;return_url=%2Fbook%2Fshow%2F10757346-ain-t-no-grave">Like</a></span>
+&nbsp;&middot;&nbsp;<a href="/review/show/140796355?book_show_action=true&amp;from_review_page=1">see review</a>
+    </div>
+
+
+    <div id='comments_for_review_140796355' style='display: none;'>
+</div>
+
+  </td>
+</tr>
+
+      </div>
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown" >
+    <div class="section">
+      
+
+<div id="review_140387268" class="review" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/140387268" />
+    <a title="Ken Miller" class="left imgcol" href="/user/show/4801280-ken-miller"><img alt="Ken Miller" src="https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+        <a class="reviewDate createdAt right" href="/review/show/140387268?book_show_action=true">Jan 12, 2011</a>
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Ken Miller" class="user" itemprop="url" name="Ken Miller" href="/user/show/4801280-ken-miller">Ken Miller</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+
+
+
+        
+
+    </div>
+
+
+        <div class="reviewText stacked">
+              <span id="reviewTextContainer140387268" class="readable"
+              >
+            
+<span id="freeTextContainer11565289063229932246">This book was amazing. It had lots of really cool music history, Appalachian stories, and 290 vintage mountain photos. The coolest feature of the book was that it came with a CD containing old Appalachian church music and an old-church style sermon being preached on it. I enjoy reading nonfiction, but it takes a whole lot to impress me. This book was wonderful! Very few books keep my attention for long spans of time, but this one certainly did just that. I found myself not wanting to stop readin</span>
+  <span id="freeText11565289063229932246" style="display:none">This book was amazing. It had lots of really cool music history, Appalachian stories, and 290 vintage mountain photos. The coolest feature of the book was that it came with a CD containing old Appalachian church music and an old-church style sermon being preached on it. I enjoy reading nonfiction, but it takes a whole lot to impress me. This book was wonderful! Very few books keep my attention for long spans of time, but this one certainly did just that. I found myself not wanting to stop reading from cover to cover. My only disappointment with the book was that once I finished reading the book, it left me wanting to read more. GREAT BOOK !!!!!!!!!!!!!!!!!</span>
+  <a data-text-id="11565289063229932246" href="#" onclick="swapContent($(this));; return false;">...more</a>
+
+          </span>
+        </div>
+
+
+      <div class="reviewFooter uitext buttons">
+          
+
+<tr class="no_border feedFooterReview" id="update_comment_stuff_Review140387268">
+  <td colspan="2">
+    <div class="updateActionLinks">
+        <a class="right flag" rel="nofollow" id="flag_link140387268" title="Flag this review as inappropriate." href="/flagged/new?resource_id=140387268&amp;resource_type=Review&amp;return_url=%2Fbook%2Fshow%2F10757346-ain-t-no-grave">flag</a>
+
+
+
+
+
+      <span class='likeItContainer' id='like_container_review_140387268'><a id="like_count_review_140387268" rel="nofollow" href="/rating/voters/140387268?resource_type=Review"><span class="likesCount">2 likes</span></a>&nbsp;&middot;&nbsp;<a rel="nofollow" class="jsLike like_it gr-button gr-button--small" href="https://www.goodreads.com/user/new?remember=true&amp;return_url=%2Fbook%2Fshow%2F10757346-ain-t-no-grave">Like</a></span>
+&nbsp;&middot;&nbsp;<a href="/review/show/140387268?book_show_action=true&amp;from_review_page=1">see review</a>
+    </div>
+
+
+    <div id='comments_for_review_140387268' style='display: none;'>
+</div>
+
+  </td>
+</tr>
+
+      </div>
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown" >
+    <div class="section">
+      
+
+<div id="review_3147418545" class="review" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/3147418545" />
+    <a title="Skipr" class="left imgcol" href="/user/show/3132918-skipr"><img alt="Skipr" src="https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+        <a class="reviewDate createdAt right" href="/review/show/3147418545?book_show_action=true">Feb 01, 2020</a>
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Skipr" class="user" itemprop="url" name="Skipr" href="/user/show/3132918-skipr">Skipr</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="really liked it"><span size="15x15" class="staticStar p10">really liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span></span>
+
+
+
+        
+
+    </div>
+
+
+        <div class="reviewText stacked">
+              <span id="reviewTextContainer3147418545" class="readable"
+              >
+            
+<span id="freeTextContainer5765537941430380486">Takes you into the world of Pentecostal Holiness Christianity in Appalachia and the surrounding South and Midwest in early and middle 20th century through the life of bigger-than-life preacher, singer, and songwriter Claude Ely. This is a world I thought I had some knowledge of, but this book gave me a much better understanding of this American Christian subculture, a subculture that has punched above its weight in its influence on American music and is a quintessentially American manifestation </span>
+  <span id="freeText5765537941430380486" style="display:none">Takes you into the world of Pentecostal Holiness Christianity in Appalachia and the surrounding South and Midwest in early and middle 20th century through the life of bigger-than-life preacher, singer, and songwriter Claude Ely. This is a world I thought I had some knowledge of, but this book gave me a much better understanding of this American Christian subculture, a subculture that has punched above its weight in its influence on American music and is a quintessentially American manifestation of Christianity. The author, a grandnephew of Ely, does an admirable job, but could have benefited from an editor with a heavier hand. By moving some of the more laundry-list type chronologies and personal recollections to an appendix, the flow of the narrative would have been smoother and more engaging. Still, a good story about an amazing man. And, I really enjoyed the photographs. </span>
+  <a data-text-id="5765537941430380486" href="#" onclick="swapContent($(this));; return false;">...more</a>
+
+          </span>
+        </div>
+
+
+      <div class="reviewFooter uitext buttons">
+          
+
+<tr class="no_border feedFooterReview" id="update_comment_stuff_Review3147418545">
+  <td colspan="2">
+    <div class="updateActionLinks">
+        <a class="right flag" rel="nofollow" id="flag_link3147418545" title="Flag this review as inappropriate." href="/flagged/new?resource_id=3147418545&amp;resource_type=Review&amp;return_url=%2Fbook%2Fshow%2F10757346-ain-t-no-grave">flag</a>
+
+
+
+
+
+      <span class='likeItContainer' id='like_container_review_3147418545'><a rel="nofollow" class="jsLike like_it gr-button gr-button--small" href="https://www.goodreads.com/user/new?remember=true&amp;return_url=%2Fbook%2Fshow%2F10757346-ain-t-no-grave">Like</a></span>
+&nbsp;&middot;&nbsp;<a href="/review/show/3147418545?book_show_action=true&amp;from_review_page=1">see review</a>
+    </div>
+
+
+    <div id='comments_for_review_3147418545' style='display: none;'>
+</div>
+
+  </td>
+</tr>
+
+      </div>
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown" >
+    <div class="section">
+      
+
+<div id="review_145394786" class="review" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/145394786" />
+    <a title="Derek Johnson" class="left imgcol" href="/user/show/4915195-derek-johnson"><img alt="Derek Johnson" src="https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+        <a class="reviewDate createdAt right" href="/review/show/145394786?book_show_action=true">Feb 02, 2011</a>
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Derek Johnson" class="user" itemprop="url" name="Derek Johnson" href="/user/show/4915195-derek-johnson">Derek Johnson</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+
+
+
+        
+
+          <div class="uitext greyText bookshelves">
+            Shelves:
+              <a class="actionLinkLite" href="/review/list/4915195-derek-johnson?shelf=plan-on-reading-it-again">plan-on-reading-it-again</a>
+          </div>
+    </div>
+
+
+        <div class="reviewText stacked">
+              <span id="reviewTextContainer145394786" class="readable"
+              >
+            
+<span id="freeTextContainer1037594838967859157">Ain't No Grave: The Life & Legacy of Brother Claude Ely is a fun-read. I enjoyed reading it a lot. When I first picked up the book to read it, I was hoping it would keep my attention and perhaps entertain my current state of boredom. Instead, I was delighted to find it not only entertained me but it also captivated me. My wife bought the book at <a target='_blank' rel='noopener nofollow' href='http://www.aintnograve.com'>www.aintnograve.com</a> because she likes American roots music and its history. This book certainly fits into that category, but it also was very raw and de</span>
+  <span id="freeText1037594838967859157" style="display:none">Ain't No Grave: The Life &amp; Legacy of Brother Claude Ely is a fun-read. I enjoyed reading it a lot. When I first picked up the book to read it, I was hoping it would keep my attention and perhaps entertain my current state of boredom. Instead, I was delighted to find it not only entertained me but it also captivated me. My wife bought the book at <a target="_blank" rel="noopener nofollow" href="http://www.aintnograve.com">www.aintnograve.com</a> because she likes American roots music and its history. This book certainly fits into that category, but it also was very raw and dealt with issues often neglected in mountain history including the deeply held faith of Southerners. I personally liked how each chapter was different, but unbenownst to me, always related to the ultimate conclusion. I'll try not to spoil it for you. But yes, it's a superb book. And I plan on reading it again! I'm glad my wife ordered it.</span>
+  <a data-text-id="1037594838967859157" href="#" onclick="swapContent($(this));; return false;">...more</a>
+
+          </span>
+        </div>
+
+
+      <div class="reviewFooter uitext buttons">
+          
+
+<tr class="no_border feedFooterReview" id="update_comment_stuff_Review145394786">
+  <td colspan="2">
+    <div class="updateActionLinks">
+        <a class="right flag" rel="nofollow" id="flag_link145394786" title="Flag this review as inappropriate." href="/flagged/new?resource_id=145394786&amp;resource_type=Review&amp;return_url=%2Fbook%2Fshow%2F10757346-ain-t-no-grave">flag</a>
+
+
+
+
+
+      <span class='likeItContainer' id='like_container_review_145394786'><a rel="nofollow" class="jsLike like_it gr-button gr-button--small" href="https://www.goodreads.com/user/new?remember=true&amp;return_url=%2Fbook%2Fshow%2F10757346-ain-t-no-grave">Like</a></span>
+&nbsp;&middot;&nbsp;<a href="/review/show/145394786?book_show_action=true&amp;from_review_page=1">see review</a>
+    </div>
+
+
+    <div id='comments_for_review_145394786' style='display: none;'>
+</div>
+
+  </td>
+</tr>
+
+      </div>
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown" >
+    <div class="section">
+      
+
+<div id="review_206931317" class="review" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/206931317" />
+    <a title="Brackman1066" class="left imgcol" href="/user/show/939142-brackman1066"><img alt="Brackman1066" src="https://images.gr-assets.com/users/1203901763p2/939142.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+        <a class="reviewDate createdAt right" href="/review/show/206931317?book_show_action=true">Sep 09, 2011</a>
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Brackman1066" class="user" itemprop="url" name="Brackman1066" href="/user/show/939142-brackman1066">Brackman1066</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="really liked it"><span size="15x15" class="staticStar p10">really liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span></span>
+
+
+
+        
+
+          <div class="uitext greyText bookshelves">
+            Shelves:
+              <a class="actionLinkLite" href="/review/list/939142-brackman1066?shelf=non-fiction">non-fiction</a>
+          </div>
+    </div>
+
+
+        <div class="reviewText stacked">
+              <span id="reviewTextContainer206931317" class="readable"
+              >
+            
+<span id="freeTextContainer17014151152563747147">This book was an interesting biography of an important figure in Appalachian--and American--culture of the mid 20th-century. Some of the pictures of minor people mentioned or interviewed in only one paragraph seemed a trifle unnecessary, but that's a judgment call. I was disappointed in the chapter discussing Ely's influence on early rock-n-roll and country artists--the editing suddenly got much worse, with paragraphs that repeated information clumsily, misplaced commas, missing words, etc. It a</span>
+  <span id="freeText17014151152563747147" style="display:none">This book was an interesting biography of an important figure in Appalachian--and American--culture of the mid 20th-century. Some of the pictures of minor people mentioned or interviewed in only one paragraph seemed a trifle unnecessary, but that's a judgment call. I was disappointed in the chapter discussing Ely's influence on early rock-n-roll and country artists--the editing suddenly got much worse, with paragraphs that repeated information clumsily, misplaced commas, missing words, etc. It almost felt like his agent told him "Quick! Write about his influence on Elvis and Johnny Cash!" and he dashed it off without having as much time to polish it. Still, the book is solid overall and I'm excited that the author is coming to give a talk at my town library later this month!</span>
+  <a data-text-id="17014151152563747147" href="#" onclick="swapContent($(this));; return false;">...more</a>
+
+          </span>
+        </div>
+
+
+      <div class="reviewFooter uitext buttons">
+          
+
+<tr class="no_border feedFooterReview" id="update_comment_stuff_Review206931317">
+  <td colspan="2">
+    <div class="updateActionLinks">
+        <a class="right flag" rel="nofollow" id="flag_link206931317" title="Flag this review as inappropriate." href="/flagged/new?resource_id=206931317&amp;resource_type=Review&amp;return_url=%2Fbook%2Fshow%2F10757346-ain-t-no-grave">flag</a>
+
+
+
+
+
+      <span class='likeItContainer' id='like_container_review_206931317'><a rel="nofollow" class="jsLike like_it gr-button gr-button--small" href="https://www.goodreads.com/user/new?remember=true&amp;return_url=%2Fbook%2Fshow%2F10757346-ain-t-no-grave">Like</a></span>
+&nbsp;&middot;&nbsp;<a href="/review/show/206931317?book_show_action=true&amp;from_review_page=1">see review</a>
+    </div>
+
+
+    <div id='comments_for_review_206931317' style='display: none;'>
+</div>
+
+  </td>
+</tr>
+
+      </div>
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown" >
+    <div class="section">
+      
+
+<div id="review_290395511" class="review nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/290395511" />
+    <a title="Bobby" class="left imgcol" href="/user/show/275927-bobby"><img alt="Bobby" src="https://images.gr-assets.com/users/1187048573p2/275927.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+        <a class="reviewDate createdAt right" href="/review/show/290395511?book_show_action=true">Mar 07, 2012</a>
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Bobby" class="user" itemprop="url" name="Bobby" href="/user/show/275927-bobby">Bobby</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="liked it"><span size="15x15" class="staticStar p10">liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span><span size="15x15" class="staticStar p0"></span></span>
+
+
+
+        
+
+          <div class="uitext greyText bookshelves">
+            Shelves:
+              <a class="actionLinkLite" href="/review/list/275927-bobby?shelf=reading-challenge">reading-challenge</a>, 
+              <a class="actionLinkLite" href="/review/list/275927-bobby?shelf=biography-memoir">biography-memoir</a>, 
+              <a class="actionLinkLite" href="/review/list/275927-bobby?shelf=music">music</a>
+          </div>
+    </div>
+
+
+        <div class="reviewText stacked">
+              <span id="reviewTextContainer290395511" class="readable"
+              >
+            
+<span id="freeTextContainer7822738753015679240">Interesting look at this particular legend in music and religion. Not the most concise or well-written book (as the author concedes that he's not a writer by trade), it surprised me as more of a transcribed oral history project than a traditional biography. I found myself skimming after awhile, but I'm still glad to have context and backstory for this artist I've come to appreciate.</span>
+
+          </span>
+        </div>
+
+
+      <div class="reviewFooter uitext buttons">
+          
+
+<tr class="no_border feedFooterReview" id="update_comment_stuff_Review290395511">
+  <td colspan="2">
+    <div class="updateActionLinks">
+        <a class="right flag" rel="nofollow" id="flag_link290395511" title="Flag this review as inappropriate." href="/flagged/new?resource_id=290395511&amp;resource_type=Review&amp;return_url=%2Fbook%2Fshow%2F10757346-ain-t-no-grave">flag</a>
+
+
+
+
+
+      <span class='likeItContainer' id='like_container_review_290395511'><a rel="nofollow" class="jsLike like_it gr-button gr-button--small" href="https://www.goodreads.com/user/new?remember=true&amp;return_url=%2Fbook%2Fshow%2F10757346-ain-t-no-grave">Like</a></span>
+&nbsp;&middot;&nbsp;<a href="/review/show/290395511?book_show_action=true&amp;from_review_page=1">see review</a>
+    </div>
+
+
+    <div id='comments_for_review_290395511' style='display: none;'>
+</div>
+
+  </td>
+</tr>
+
+      </div>
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown" >
+    <div class="section">
+      
+
+<div id="review_165967376" class="review" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/165967376" />
+    <a title="Sarah" class="left imgcol" href="/user/show/799504-sarah"><img alt="Sarah" src="https://images.gr-assets.com/users/1314248593p2/799504.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+        <a class="reviewDate createdAt right" href="/review/show/165967376?book_show_action=true">May 05, 2011</a>
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Sarah" class="user" itemprop="url" name="Sarah" href="/user/show/799504-sarah">Sarah</a>
+      </span>
+
+          marked it as to-read
+
+
+
+
+          <div>
+    <span class="greyText">Recommended to Sarah by: </span>
+      NPR
+  </div>
+
+
+          <div class="uitext greyText bookshelves">
+            Shelves:
+              <a class="actionLinkLite" href="/review/list/799504-sarah?shelf=npr-recomendations">npr-recomendations</a>
+          </div>
+    </div>
+
+
+        <div class="reviewText stacked">
+              <span id="reviewTextContainer165967376" class="readable"
+              >
+            
+<span id="freeTextContainer8219521285854552833">Discovered this book and Bro Claude Ely on NPR -- of course. I really want to listen to the accompanying cd. May 5 2011.</span>
+
+          </span>
+        </div>
+
+
+      <div class="reviewFooter uitext buttons">
+          
+
+<tr class="no_border feedFooterReview" id="update_comment_stuff_Review165967376">
+  <td colspan="2">
+    <div class="updateActionLinks">
+        <a class="right flag" rel="nofollow" id="flag_link165967376" title="Flag this review as inappropriate." href="/flagged/new?resource_id=165967376&amp;resource_type=Review&amp;return_url=%2Fbook%2Fshow%2F10757346-ain-t-no-grave">flag</a>
+
+
+
+
+
+      <span class='likeItContainer' id='like_container_review_165967376'><a rel="nofollow" class="jsLike like_it gr-button gr-button--small" href="https://www.goodreads.com/user/new?remember=true&amp;return_url=%2Fbook%2Fshow%2F10757346-ain-t-no-grave">Like</a></span>
+&nbsp;&middot;&nbsp;<a href="/review/show/165967376?book_show_action=true&amp;from_review_page=1">see review</a>
+    </div>
+
+
+    <div id='comments_for_review_165967376' style='display: none;'>
+</div>
+
+  </td>
+</tr>
+
+      </div>
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_1196648213" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/1196648213" />
+    <a title="Daniel" class="left imgcol" href="/user/show/11543337-daniel"><img alt="Daniel" src="https://images.gr-assets.com/users/1344038887p2/11543337.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Daniel" class="user" itemprop="url" name="Daniel" href="/user/show/11543337-daniel">Daniel</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/1196648213?book_show_action=true">Feb 10, 2015</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_1435135443" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/1435135443" />
+    <a title="Sheikh Tajamul" class="left imgcol" href="/user/show/30088931-sheikh-tajamul"><img alt="Sheikh Tajamul" src="https://images.gr-assets.com/users/1456354700p2/30088931.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Sheikh Tajamul" class="user" itemprop="url" name="Sheikh Tajamul" href="/user/show/30088931-sheikh-tajamul">Sheikh Tajamul</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="liked it"><span size="15x15" class="staticStar p10">liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span><span size="15x15" class="staticStar p0"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/1435135443?book_show_action=true">Nov 05, 2015</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_1466394692" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/1466394692" />
+    <a title="Nightocelot" class="left imgcol" href="/user/show/11357927-nightocelot"><img alt="Nightocelot" src="https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Nightocelot" class="user" itemprop="url" name="Nightocelot" href="/user/show/11357927-nightocelot">Nightocelot</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/1466394692?book_show_action=true">Dec 11, 2015</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_1375244407" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/1375244407" />
+    <a title="Wesley" class="left imgcol" href="/user/show/46362468-wesley"><img alt="Wesley" src="https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Wesley" class="user" itemprop="url" name="Wesley" href="/user/show/46362468-wesley">Wesley</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="really liked it"><span size="15x15" class="staticStar p10">really liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/1375244407?book_show_action=true">Aug 27, 2015</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_142193706" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/142193706" />
+    <a title="Kevin Murray" class="left imgcol" href="/user/show/4842332-kevin-murray"><img alt="Kevin Murray" src="https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Kevin Murray" class="user" itemprop="url" name="Kevin Murray" href="/user/show/4842332-kevin-murray">Kevin Murray</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/142193706?book_show_action=true">Jan 20, 2011</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_2044483641" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/2044483641" />
+    <a title="Joshua Disneyq" class="left imgcol" href="/user/show/20576434-joshua-disneyq"><img alt="Joshua Disneyq" src="https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Joshua Disneyq" class="user" itemprop="url" name="Joshua Disneyq" href="/user/show/20576434-joshua-disneyq">Joshua Disneyq</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="really liked it"><span size="15x15" class="staticStar p10">really liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/2044483641?book_show_action=true">Jun 29, 2017</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_926433395" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/926433395" />
+    <a title="Gary" class="left imgcol" href="/user/show/642770-gary"><img alt="Gary" src="https://images.gr-assets.com/users/1196129779p2/642770.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Gary" class="user" itemprop="url" name="Gary" href="/user/show/642770-gary">Gary</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="really liked it"><span size="15x15" class="staticStar p10">really liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/926433395?book_show_action=true">May 02, 2014</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_2914516985" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/2914516985" />
+    <a title="Gabrielle" class="left imgcol" href="/user/show/7293114-gabrielle"><img alt="Gabrielle" src="https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Gabrielle" class="user" itemprop="url" name="Gabrielle" href="/user/show/7293114-gabrielle">Gabrielle</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/2914516985?book_show_action=true">Jul 28, 2019</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_213565038" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/213565038" />
+    <a title="Denny Youngblood" class="left imgcol" href="/user/show/6271250-denny-youngblood"><img alt="Denny Youngblood" src="https://images.gr-assets.com/users/1331986120p2/6271250.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Denny Youngblood" class="user" itemprop="url" name="Denny Youngblood" href="/user/show/6271250-denny-youngblood">Denny Youngblood</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="liked it"><span size="15x15" class="staticStar p10">liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span><span size="15x15" class="staticStar p0"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/213565038?book_show_action=true">Sep 22, 2011</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_2489275315" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/2489275315" />
+    <a title="Faisal" class="left imgcol" href="/user/show/28494245-faisal"><img alt="Faisal" src="https://images.gr-assets.com/users/1563994780p2/28494245.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Faisal" class="user" itemprop="url" name="Faisal" href="/user/show/28494245-faisal">Faisal</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="liked it"><span size="15x15" class="staticStar p10">liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span><span size="15x15" class="staticStar p0"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/2489275315?book_show_action=true">Aug 10, 2018</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_348659385" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/348659385" />
+    <a title="Sarah Bryan" class="left imgcol" href="/user/show/10177392-sarah-bryan"><img alt="Sarah Bryan" src="https://images.gr-assets.com/users/1339555647p2/10177392.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Sarah Bryan" class="user" itemprop="url" name="Sarah Bryan" href="/user/show/10177392-sarah-bryan">Sarah Bryan</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/348659385?book_show_action=true">Jun 14, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_2259948367" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/2259948367" />
+    <a title="elizabeth veldon" class="left imgcol" href="/user/show/76537964-elizabeth-veldon"><img alt="elizabeth veldon" src="https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="elizabeth veldon" class="user" itemprop="url" name="elizabeth veldon" href="/user/show/76537964-elizabeth-veldon">elizabeth veldon</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="really liked it"><span size="15x15" class="staticStar p10">really liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/2259948367?book_show_action=true">Jan 16, 2018</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_286547670" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/286547670" />
+    <a title="Shiva" class="left imgcol" href="/user/show/7964275-shiva"><img alt="Shiva" src="https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Shiva" class="user" itemprop="url" name="Shiva" href="/user/show/7964275-shiva">Shiva</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was ok"><span size="15x15" class="staticStar p10">it was ok</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span><span size="15x15" class="staticStar p0"></span><span size="15x15" class="staticStar p0"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/286547670?book_show_action=true">Mar 01, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_276323229" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/276323229" />
+    <a title="Achal" class="left imgcol" href="/user/show/7720962-achal"><img alt="Achal" src="https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Achal" class="user" itemprop="url" name="Achal" href="/user/show/7720962-achal">Achal</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="really liked it"><span size="15x15" class="staticStar p10">really liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/276323229?book_show_action=true">Feb 12, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_2867462255" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/2867462255" />
+    <a title="Soufiane Sakhi" class="left imgcol" href="/user/show/49594240-soufiane-sakhi"><img alt="Soufiane Sakhi" src="https://images.gr-assets.com/users/1554160331p2/49594240.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Soufiane Sakhi" class="user" itemprop="url" name="Soufiane Sakhi" href="/user/show/49594240-soufiane-sakhi">Soufiane Sakhi</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/2867462255?book_show_action=true">Jun 22, 2019</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_2959803379" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/2959803379" />
+    <a title="Karen M Bultman" class="left imgcol" href="/user/show/99953193-karen-m-bultman"><img alt="Karen M Bultman" src="https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Karen M Bultman" class="user" itemprop="url" name="Karen M Bultman" href="/user/show/99953193-karen-m-bultman">Karen M Bultman</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/2959803379?book_show_action=true">Aug 31, 2019</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_192336704" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/192336704" />
+    <a title="James" class="left imgcol" href="/user/show/5530036-james"><img alt="James" src="https://images.gr-assets.com/users/1339784281p2/5530036.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="James" class="user" itemprop="url" name="James" href="/user/show/5530036-james">James</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was ok"><span size="15x15" class="staticStar p10">it was ok</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span><span size="15x15" class="staticStar p0"></span><span size="15x15" class="staticStar p0"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/192336704?book_show_action=true">Jul 30, 2011</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_3488494948" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/3488494948" />
+    <a title="Stacey Glendon" class="left imgcol" href="/user/show/119676034-stacey-glendon"><img alt="Stacey Glendon" src="https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Stacey Glendon" class="user" itemprop="url" name="Stacey Glendon" href="/user/show/119676034-stacey-glendon">Stacey Glendon</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/3488494948?book_show_action=true">Aug 10, 2020</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_141694203" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/141694203" />
+    <a title="Sgordy" class="left imgcol" href="/user/show/4829896-sgordy"><img alt="Sgordy" src="https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Sgordy" class="user" itemprop="url" name="Sgordy" href="/user/show/4829896-sgordy">Sgordy</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/141694203?book_show_action=true">Jan 18, 2011</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_1056791128" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/1056791128" />
+    <a title="Joshua Mahoney" class="left imgcol" href="/user/show/35054219-joshua-mahoney"><img alt="Joshua Mahoney" src="https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Joshua Mahoney" class="user" itemprop="url" name="Joshua Mahoney" href="/user/show/35054219-joshua-mahoney">Joshua Mahoney</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="liked it"><span size="15x15" class="staticStar p10">liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span><span size="15x15" class="staticStar p0"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/1056791128?book_show_action=true">Sep 16, 2014</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_434119321" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/434119321" />
+    <a title="Amy Lewis" class="left imgcol" href="/user/show/13342832-amy-lewis"><img alt="Amy Lewis" src="https://images.gr-assets.com/users/1366052718p2/13342832.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Amy Lewis" class="user" itemprop="url" name="Amy Lewis" href="/user/show/13342832-amy-lewis">Amy Lewis</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="liked it"><span size="15x15" class="staticStar p10">liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span><span size="15x15" class="staticStar p0"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/434119321?book_show_action=true">Oct 14, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_3408487030" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/3408487030" />
+    <a title="Ronny" class="left imgcol" href="/user/show/109573848-ronny"><img alt="Ronny" src="https://images.gr-assets.com/users/1593001943p2/109573848.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Ronny" class="user" itemprop="url" name="Ronny" href="/user/show/109573848-ronny">Ronny</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="really liked it"><span size="15x15" class="staticStar p10">really liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/3408487030?book_show_action=true">Jun 24, 2020</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+</div>
+
+<div class="uitext" style="float: right; margin-top: 10px">
+  
+
+</div>
+
+</div>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div><div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><div class="extraHeader"><a class="actionLinkLite" rel="nofollow" href="/topic/new?context_id=10757346&amp;context_type=Book">new topic</a></div><a href="/topic/list_book/10757346-ain-t-no-grave">Discuss This Book</a></h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent"><div class='mediumText'>
+There are no discussion topics on this book yet.
+<a class="actionLink" rel="nofollow" href="/topic/new?context_id=10757346&amp;context_type=Book">Be the first to start one &raquo;</a>
+</div>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div>
+</div>
+
+
+</div>
+
+<div class="rightContainer">
+
+
+  <div data-react-class="ReactComponents.ShareDialog" data-react-props="{&quot;signedIn&quot;:false,&quot;signInUrl&quot;:&quot;/user/sign_in&quot;,&quot;social&quot;:{&quot;inModal&quot;:{&quot;facebook&quot;:true,&quot;twitter&quot;:true,&quot;pinterest&quot;:true,&quot;copyLink&quot;:false},&quot;outsideModal&quot;:{&quot;facebook&quot;:true,&quot;twitter&quot;:true,&quot;pinterest&quot;:true,&quot;copyLink&quot;:false},&quot;fbOptions&quot;:{&quot;name&quot;:&quot;Ain&#39;t No Grave: The Life and Legacy of Brother Claude Ely by Macel Ely II&quot;,&quot;caption&quot;:&quot;goodreads.com&quot;,&quot;description&quot;:&quot;&quot;,&quot;link&quot;:&quot;https://www.goodreads.com/book/show/10757346-ain-t-no-grave&quot;,&quot;picture&quot;:&quot;https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348130424l/10757346._SX50_.jpg&quot;},&quot;twitterOptions&quot;:{&quot;text&quot;:&quot;Ain&#39;t No Grave: The Life and Legacy of Brother Claude Ely by Macel Ely II&quot;,&quot;url&quot;:&quot;https://www.goodreads.com/book/show/10757346-ain-t-no-grave&quot;,&quot;via&quot;:&quot;goodreads&quot;},&quot;pinterestOptions&quot;:{&quot;description&quot;:&quot;Ain&#39;t No Grave: The Life and Legacy of Brother Claude Ely by Macel Ely II&quot;,&quot;url&quot;:&quot;https://www.goodreads.com/book/show/10757346-ain-t-no-grave&quot;,&quot;media&quot;:&quot;https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348130424l/10757346.jpg&quot;}},&quot;sharingData&quot;:{&quot;resourceTypeFriendlyText&quot;:&quot;book&quot;,&quot;resourceId&quot;:10757346},&quot;includePreview&quot;:true,&quot;previewData&quot;:{&quot;author&quot;:{&quot;name&quot;:&quot;Macel Ely II&quot;,&quot;isGoodreadsAuthor&quot;:false},&quot;rating&quot;:&quot;4.13&quot;,&quot;title&quot;:&quot;Ain&#39;t No Grave: The Life and Legacy of Brother Claude Ely&quot;,&quot;imageUrl&quot;:&quot;https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348130424i/10757346._UX75_.jpg&quot;,&quot;ratingsCount&quot;:30,&quot;textReviewsCount&quot;:8}}"><div data-reactid=".2m2y5501ds" data-react-checksum="-1217740415"><div class="shareModuleBar" data-reactid=".2m2y5501ds.1"><a class="modalTrigger modalTrigger--shareModule" role="button" aria-expanded="false" aria-haspopup="true" data-reactid=".2m2y5501ds.1.0"><button class="gr-shareButton" type="button" data-reactid=".2m2y5501ds.1.0.0"><span class="gr-shareButton__innerWrapper" data-reactid=".2m2y5501ds.1.0.0.0"><span class="gr-shareButton__icon" data-reactid=".2m2y5501ds.1.0.0.0.0"></span><span class="gr-shareButton__textLabel" data-reactid=".2m2y5501ds.1.0.0.0.1">Share</span></span></button></a><div class="shareSocialButtons shareSocialButtons--shareBar" data-reactid=".2m2y5501ds.1.1"><button class="shareSocialButtons__button shareSocialButtons__button--shareBar shareSocialButtons__button--facebook" aria-label="Share to Facebook" type="button" data-reactid=".2m2y5501ds.1.1.0"></button><button class="shareSocialButtons__button shareSocialButtons__button--shareBar shareSocialButtons__button--twitter" aria-label="Share to Twitter" type="button" data-reactid=".2m2y5501ds.1.1.1"></button><button class="shareSocialButtons__button shareSocialButtons__button--shareBar shareSocialButtons__button--pinterest" aria-label="Share to Pinterest" type="button" data-reactid=".2m2y5501ds.1.1.2"></button></div></div></div></div>
+
+
+<div class="recommendItBar stacked actionLinkLite">
+        <a class="greyText" rel="nofollow" href="/book/recommend/10757346-ain-t-no-grave">Recommend It</a>
+
+  <span class="greyText">&nbsp;|&nbsp;</span>
+    <a rel="nofollow" class="greyText" href="/book/stats?id=10757346-ain-t-no-grave">Stats</a>
+    <span class="greyText">&nbsp;|&nbsp;</span>
+  <a rel="nofollow" class="greyText" href="/user_status/book/10757346-ain-t-no-grave">Recent Status Updates</a>
+</div>
+
+
+
+
+
+    
+
+    <div data-react-class="ReactComponents.GoogleBannerAd" data-react-props="{&quot;adId&quot;:&quot;&quot;,&quot;className&quot;:&quot;googleBannerAd--mediumRectangle&quot;}"></div>
+
+
+      <div data-react-class="ReactComponents.GoogleFeaturedContentModule" data-react-props="{&quot;adId&quot;:&quot;&quot;,&quot;trackingOptions&quot;:{&quot;enableTracking&quot;:true,&quot;adId&quot;:&quot;&quot;},&quot;isMobile&quot;:false,&quot;isInline&quot;:false,&quot;hasBottomBorder&quot;:false}"></div>
+
+
+      
+
+    <div class="stacked">
+      <div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><a href="/work/shelves/15105182">Genres</a></h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent">
+    <div class="elementList ">
+      <div class="left">
+        <a class="actionLinkLite bookPageGenreLink" href="/genres/music">Music</a>
+      </div>
+        <div class="right">
+          <a title="10 people shelved this book as &#39;music&#39;" class="actionLinkLite greyText bookPageGenreLink" rel="nofollow" href="/shelf/users/10757346-ain-t-no-grave?shelf=music">10 users</a>
+        </div>
+      <div class="clear"></div>
+    </div>
+    <div class="elementList ">
+      <div class="left">
+        <a class="actionLinkLite bookPageGenreLink" href="/genres/history">History</a>
+      </div>
+        <div class="right">
+          <a title="5 people shelved this book as &#39;history&#39;" class="actionLinkLite greyText bookPageGenreLink" rel="nofollow" href="/shelf/users/10757346-ain-t-no-grave?shelf=history">5 users</a>
+        </div>
+      <div class="clear"></div>
+    </div>
+    <div class="elementList ">
+      <div class="left">
+        <a class="actionLinkLite bookPageGenreLink" href="/genres/biography">Biography</a>
+      </div>
+        <div class="right">
+          <a title="5 people shelved this book as &#39;biography&#39;" class="actionLinkLite greyText bookPageGenreLink" rel="nofollow" href="/shelf/users/10757346-ain-t-no-grave?shelf=biography">5 users</a>
+        </div>
+      <div class="clear"></div>
+    </div>
+    <div class="elementList ">
+      <div class="left">
+          <a class="actionLinkLite bookPageGenreLink" href="/genres/art">Art</a> &gt;
+        <a class="actionLinkLite bookPageGenreLink" href="/genres/photography">Photography</a>
+      </div>
+        <div class="right">
+          <a title="3 people shelved this book as &#39;photography&#39;" class="actionLinkLite greyText bookPageGenreLink" rel="nofollow" href="/shelf/users/10757346-ain-t-no-grave?shelf=photography">3 users</a>
+        </div>
+      <div class="clear"></div>
+    </div>
+    <div class="elementList ">
+      <div class="left">
+        <a class="actionLinkLite bookPageGenreLink" href="/genres/non-fiction">Nonfiction</a>
+      </div>
+        <div class="right">
+          <a title="3 people shelved this book as &#39;non-fiction&#39;" class="actionLinkLite greyText bookPageGenreLink" rel="nofollow" href="/shelf/users/10757346-ain-t-no-grave?shelf=non-fiction">3 users</a>
+        </div>
+      <div class="clear"></div>
+    </div>
+    <div class="elementList elementListLast">
+      <div class="left">
+          <a class="actionLinkLite bookPageGenreLink" href="/genres/autobiography">Autobiography</a> &gt;
+        <a class="actionLinkLite bookPageGenreLink" href="/genres/memoir">Memoir</a>
+      </div>
+        <div class="right">
+          <a title="2 people shelved this book as &#39;memoir&#39;" class="actionLinkLite greyText bookPageGenreLink" rel="nofollow" href="/shelf/users/10757346-ain-t-no-grave?shelf=memoir">2 users</a>
+        </div>
+      <div class="clear"></div>
+    </div>
+  <a class="actionLink right seeMoreLink" href="/book/shelves/10757346-ain-t-no-grave">See top shelves…</a>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div>
+    </div>
+
+      <div id="aboutAuthor" class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><a href="/author/show/4577916.Macel_Ely_II">About Macel Ely II</a></h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent">
+          <div class='bookAuthorProfile'>
+<div class='bookAuthorProfile__topContainer'>
+<div class='bookAuthorProfile__photoContainer'>
+<a href="/author/show/4577916.Macel_Ely_II"><div class='bookAuthorProfile__photo' style='background-image: url(https://images.gr-assets.com/authors/1296846771p3/4577916.jpg);'></div>
+</a></div>
+<div class='bookAuthorProfile__widgetContainer'>
+<div class='bookAuthorProfile__name'>
+<a href="/author/show/4577916.Macel_Ely_II">Macel Ely II
+</a></div>
+<div class='bookAuthorProfile__followerCount'>
+3
+followers
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div>
+
+  
+
+  
+
+    <div data-react-class="ReactComponents.GoogleBannerAd" data-react-props="{&quot;adId&quot;:&quot;&quot;,&quot;className&quot;:&quot;googleBannerAd--mediumRectangle&quot;}"></div>
+
+
+
+
+
+
+
+    <div data-react-class="ReactComponents.NewsPreview" data-react-props="{&quot;sectionHeader&quot;:&quot;Related Articles&quot;,&quot;isMobile&quot;:false,&quot;isBookPage&quot;:true,&quot;imageOnLeft&quot;:true,&quot;showLikesComments&quot;:true,&quot;newsItems&quot;:[{&quot;newsUrl&quot;:&quot;https://www.goodreads.com/interviews/show/1532.Mariah_Carey?ref=book-show&quot;,&quot;excerpt&quot;:&quot;\n\n\n\nIf you haven&#39;t heard of record-smashing singer and songwriter Mariah Carey, is there any hope for you? Who else has sold more than 200 million...&quot;,&quot;likeCount&quot;:58,&quot;commentCount&quot;:23,&quot;title&quot;:&quot;Mariah Carey Is Telling Her Own Story (and Recommending Books)&quot;,&quot;newsImageUrl&quot;:&quot;https://images.gr-assets.com/interviews/1601490283p8/1532.jpg&quot;,&quot;authorImageUrl&quot;:null,&quot;bookImageUrl&quot;:null,&quot;key&quot;:&quot;kca://interview/amzn1.gr.interview.v3.THktZbrR7h8W-fBb&quot;}]}"><div class="bigBox clearFloats" data-reactid=".1fc37xu5ce8" data-react-checksum="1467996612"><div class="h2Container gradientHeaderContainer" data-reactid=".1fc37xu5ce8.0"><h2 class="brownBackground newsPreview__sectionHeader--bookPage" data-reactid=".1fc37xu5ce8.0.0">Related Articles</h2></div><div class="newsPreview__item" data-reactid=".1fc37xu5ce8.1:$kca=2//interview/amzn1=1gr=1interview=1v3=1THktZbrR7h8W-fBb"><div data-reactid=".1fc37xu5ce8.1:$kca=2//interview/amzn1=1gr=1interview=1v3=1THktZbrR7h8W-fBb.0"><a href="https://www.goodreads.com/interviews/show/1532.Mariah_Carey?ref=book-show" data-reactid=".1fc37xu5ce8.1:$kca=2//interview/amzn1=1gr=1interview=1v3=1THktZbrR7h8W-fBb.0.0"><img class="newsPreview__newsImage" src="https://images.gr-assets.com/interviews/1601490283p8/1532.jpg" data-reactid=".1fc37xu5ce8.1:$kca=2//interview/amzn1=1gr=1interview=1v3=1THktZbrR7h8W-fBb.0.0.0"/></a></div><div class="newsPreview__textSection" data-reactid=".1fc37xu5ce8.1:$kca=2//interview/amzn1=1gr=1interview=1v3=1THktZbrR7h8W-fBb.1"><div data-reactid=".1fc37xu5ce8.1:$kca=2//interview/amzn1=1gr=1interview=1v3=1THktZbrR7h8W-fBb.1.0"><a class="gr-h4 gr-h4--serif newsPreview__newsHeader" href="https://www.goodreads.com/interviews/show/1532.Mariah_Carey?ref=book-show" data-reactid=".1fc37xu5ce8.1:$kca=2//interview/amzn1=1gr=1interview=1v3=1THktZbrR7h8W-fBb.1.0.0">Mariah Carey Is Telling Her Own Story (and Recommending Books)</a></div><div class="newsPreview__excerpt" data-reactid=".1fc37xu5ce8.1:$kca=2//interview/amzn1=1gr=1interview=1v3=1THktZbrR7h8W-fBb.1.1">
+
+
+
+If you haven't heard of record-smashing singer and songwriter Mariah Carey, is there any hope for you? Who else has sold more than 200 million...</div><div class="newsPreview__readMore" data-reactid=".1fc37xu5ce8.1:$kca=2//interview/amzn1=1gr=1interview=1v3=1THktZbrR7h8W-fBb.1.2"><a href="https://www.goodreads.com/interviews/show/1532.Mariah_Carey?ref=book-show" data-reactid=".1fc37xu5ce8.1:$kca=2//interview/amzn1=1gr=1interview=1v3=1THktZbrR7h8W-fBb.1.2.0">Read more...</a></div><div class="newsPreview__likesAndComments" data-reactid=".1fc37xu5ce8.1:$kca=2//interview/amzn1=1gr=1interview=1v3=1THktZbrR7h8W-fBb.1.3"><small class="newsPreview__likesAndComments__text" data-reactid=".1fc37xu5ce8.1:$kca=2//interview/amzn1=1gr=1interview=1v3=1THktZbrR7h8W-fBb.1.3.0"><span data-reactid=".1fc37xu5ce8.1:$kca=2//interview/amzn1=1gr=1interview=1v3=1THktZbrR7h8W-fBb.1.3.0.0"><span data-reactid=".1fc37xu5ce8.1:$kca=2//interview/amzn1=1gr=1interview=1v3=1THktZbrR7h8W-fBb.1.3.0.0.$0">58 likes</span><span data-reactid=".1fc37xu5ce8.1:$kca=2//interview/amzn1=1gr=1interview=1v3=1THktZbrR7h8W-fBb.1.3.0.0.$1"><span data-reactid=".1fc37xu5ce8.1:$kca=2//interview/amzn1=1gr=1interview=1v3=1THktZbrR7h8W-fBb.1.3.0.0.$1.0"> · </span></span><span data-reactid=".1fc37xu5ce8.1:$kca=2//interview/amzn1=1gr=1interview=1v3=1THktZbrR7h8W-fBb.1.3.0.0.$2">23 comments</span></span></small></div></div></div></div></div>
+
+
+      <div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><a href="/trivia/work/15105182-ain-t-no-grave-the-life-and-legacy-of-brother-claude-ely">Trivia About Ain&#39;t No Grave: T...</a></h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent">
+        <div class="mediumText">No trivia or quizzes yet. <a href="/trivia/work/15105182-ain-t-no-grave-the-life-and-legacy-of-brother-claude-ely">Add some now &raquo;</a></div>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div>
+
+
+
+
+  <div data-react-class="ReactComponents.GoogleBannerAd" data-react-props="{&quot;adId&quot;:&quot;&quot;,&quot;className&quot;:&quot;googleBannerAd--mediumRectangle&quot;}"></div>
+
+
+</div>
+
+  <span id="rating_graph" class="rating_graph">
+    <script type="text/javascript+protovis">
+      renderRatingGraph([14, 8, 6, 2, 0]);
+      if ($('rating_details')) {
+        $('rating_details').insert({top: $('rating_graph')})
+      }
+    </script>
+  </span>
+
+  <script>
+//<![CDATA[
+if (typeof window.uet == 'function') { window.uet('af'); }
+//]]>
+</script>
+
+
+
+<div data-react-class="ReactComponents.QualtricsSurvey" data-react-props="{&quot;signedOut&quot;:true,&quot;qualtricsUrl&quot;:&quot;https://goodreads.co1.qualtrics.com/jfe/form/SV_73wucOsr7CfPm6N&quot;,&quot;type&quot;:&quot;book_show&quot;}"></div>
+
+
+
+<script>
+//<![CDATA[
+(function (w, d, load) {
+  var script,
+    first = d.getElementsByTagName('SCRIPT')[0],
+    n = load.length,
+    i = 0,
+    go = function () {
+      for (i = 0; i < n; i += 1) {
+        script = d.createElement('SCRIPT');
+        script.type = 'text/javascript';
+        script.async = true;
+        script.src = load[i];
+        first.parentNode.insertBefore(script, first);
+      }
+    }
+  if (w.attachEvent) {
+    w.attachEvent('onload', go);
+  } else {
+    w.addEventListener('load', go, false);
+  }
+}(window, document,
+    ['//assets.pinterest.com/js/pinit.js',
+     '//apis.google.com/js/plusone.js'
+    ]
+  ));
+
+//]]>
+</script>
+
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+  </div>
+            <div data-react-class="ReactComponents.GooglePageSkin" data-react-props="{&quot;adId&quot;:&quot;&quot;,&quot;trackingOptions&quot;:{&quot;enableTracking&quot;:true,&quot;adId&quot;:&quot;&quot;}}"></div>
+
+
+
+  <div class="clear"></div>
+  <footer class='responsiveSiteFooter'>
+<div class='responsiveSiteFooter__contents gr-container-fluid'>
+<div class='gr-row'>
+<div class='gr-col gr-col-md-8 gr-col-lg-6'>
+<div class='gr-row'>
+<div class='gr-col-md-3 gr-col-lg-4'>
+<h3 class='responsiveSiteFooter__heading'>Company</h3>
+<ul class='responsiveSiteFooter__linkList'>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/about/us">About us</a>
+</li>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/jobs">Careers</a>
+</li>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/about/terms">Terms</a>
+</li>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/about/privacy">Privacy</a>
+</li>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="https://help.goodreads.com/s/article/Goodreads-Interest-Based-Ads-Notice">Interest Based Ads</a>
+</li>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/adprefs">Ad Preferences</a>
+</li>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/help?action_type=help_web_footer">Help</a>
+</li>
+</ul>
+</div>
+<div class='gr-col-md-4 gr-col-lg-4'>
+<h3 class='responsiveSiteFooter__heading'>Work with us</h3>
+<ul class='responsiveSiteFooter__linkList'>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/author/program">Authors</a>
+</li>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/advertisers">Advertise</a>
+</li>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/news?content_type=author_blogs">Authors &amp; ads blog</a>
+</li>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/api">API</a>
+</li>
+</ul>
+</div>
+<div class='gr-col-md-5 gr-col-lg-4'>
+<h3 class='responsiveSiteFooter__heading'>Connect</h3>
+<div class='responsiveSiteFooter__socialLinkWrapper'>
+<a class="responsiveSiteFooter__socialLink" href="https://www.facebook.com/Goodreads/"><img alt="Goodreads on Facebook" src="https://s.gr-assets.com/assets/site_footer/footer_facebook-ea4ab848f8e86c5f5c98311bc9495a1b.svg" />
+</a><a class="responsiveSiteFooter__socialLink" href="https://twitter.com/goodreads"><img alt="Goodreads on Twitter" src="https://s.gr-assets.com/assets/site_footer/footer_twitter-126b3ee80481a763f7fccb06ca03053c.svg" />
+</a></div>
+<div class='responsiveSiteFooter__socialLinkWrapper'>
+<a class="responsiveSiteFooter__socialLink" href="https://www.instagram.com/goodreads/"><img alt="Goodreads on Instagram" src="https://s.gr-assets.com/assets/site_footer/footer_instagram-d59e3887020f12bcdb12e6c539579d85.svg" />
+</a><a class="responsiveSiteFooter__socialLink" href="https://www.linkedin.com/company/goodreads-com/"><img alt="Goodreads on LinkedIn" src="https://s.gr-assets.com/assets/site_footer/footer_linkedin-5b820f4703eff965672594ef4d10e33c.svg" />
+</a></div>
+</div>
+</div>
+</div>
+<div class='gr-col gr-col-md-4 gr-col-lg-6 responsiveSiteFooter__appLinksColumn'>
+<div class='responsiveSiteFooter__appLinksColumnContents'>
+<div class='responsiveSiteFooter__appLinksColumnBadges'>
+<a href="https://itunes.apple.com/app/apple-store/id355833469?pt=325668&amp;ct=mw_footer&amp;mt=8"><img alt="Download app for iOS" src="https://s.gr-assets.com/assets/app/badge-ios-desktop-homepage-6ac7ae16eabce57f6c855361656a7540.svg" />
+</a><a href="https://play.google.com/store/apps/details?id=com.goodreads&amp;utm_source=mw_footer&amp;pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"><img alt="Download app for Android" srcSet="https://s.gr-assets.com/assets/app/badge-android-desktop-home-2x-e31514e1fb4dddecf9293aa526a64cfe.png 2x" src="https://s.gr-assets.com/assets/app/badge-android-desktop-home-0f517cbae4d56c88a128d27a7bea1118.png" />
+</a></div>
+<ul class='responsiveSiteFooter__linkList'>
+<li class='responsiveSiteFooter__linkListItem'>
+©
+2020
+Goodreads, Inc.
+</li>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/toggle_mobile">Mobile version
+</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</footer>
+
+
+    <script>
+//<![CDATA[
+if (typeof window.uet == 'function') { window.uet('be'); }
+//]]>
+</script>
+
+</div>
+  <!--
+This partial loads on almost every page view.  The associated React component makes
+a call to SignInPromptController#get to determine if the user should see the sign in interstial.
+This is determined by how many signed out pagehits the user has executed an how recently they have
+last seen the insterstitial.  If the controller responds indicating the popup should appear, the
+React component will render its content.
+-->
+<div data-react-class="ReactComponents.LoginInterstitial" data-react-props="{&quot;allowFacebookSignIn&quot;:true,&quot;allowAmazonSignIn&quot;:true,&quot;overrideSignedOutPageCount&quot;:false,&quot;path&quot;:{&quot;signInUrl&quot;:&quot;/user/sign_in&quot;,&quot;signUpUrl&quot;:&quot;/user/sign_up&quot;,&quot;privacyUrl&quot;:&quot;/about/privacy&quot;,&quot;termsUrl&quot;:&quot;/about/terms&quot;,&quot;thirdPartyRedirectUrl&quot;:&quot;/user/new?connect_prompt=true&quot;}}"><noscript data-reactid=".1i0hwx3auio" data-react-checksum="-1176366724"></noscript></div>
+
+<div id="overlay" style="display:none" onclick="Lightbox.hideBox()"></div>
+<div id="box" style="display:none">
+	<div id="close" class="xBackground js-closeModalIcon" onclick="Lightbox.hideBox()" title="Close this window"></div>
+	<div id="boxContents"></div>
+	<div id="boxContentsLeftovers" style="display:none"></div>
+	<div class="clear"></div>
+</div>
+
+<div id="fbSigninNotification" style="display:none;">
+  <p>Welcome back. Just a moment while we sign you in to your Goodreads account.</p>
+  <img src="https://s.gr-assets.com/assets/facebook/login_animation-085464711e6c1ed5ba287a2f40ba3343.gif" alt="Login animation" />
+</div>
+
+
+
+
+<script>
+  //<![CDATA[
+    qcdata = {} || qcdata;
+      (function(){
+        var elem = document.createElement('script');
+        elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-0dUe_kJAjvkoY";
+        elem.async = true;
+        elem.type = "text/javascript";
+        var scpt = document.getElementsByTagName('script')[0];
+        scpt.parentNode.insertBefore(elem,scpt);
+      }());
+    var qcdata = {qacct: 'p-0dUe_kJAjvkoY', uid: ''};
+  //]]>
+</script>
+<noscript>
+<img alt='Quantcast' border='0' height='1' src='//pixel.quantserve.com/pixel/p-0dUe_kJAjvkoY.gif' style='display: none;' width='1'>
+</noscript>
+
+<script>
+  //<![CDATA[
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "2", c2: "6035830", c3: "", c4: "", c5: "", c6: "", c15: ""});
+    (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+    })();
+  //]]>
+</script>
+<noscript>
+<img style="display: none" width="0" height="0" alt="" src="https://sb.scorecardresearch.com/p?c1=2&amp;amp;c2=6035830&amp;amp;c3=&amp;amp;c4=&amp;amp;c5=&amp;amp;c6=&amp;amp;c15=&amp;amp;cv=2.0&amp;amp;cj=1" />
+</noscript>
+
+
+<script>
+  //<![CDATA[
+    window.addEventListener("DOMContentLoaded", function() {
+            ReactStores.ShelvingsStore.updateWith({"10757346":{"exclusiveShelfName":null,"nonExclusiveShelfNames":null,"exclusiveShelfDisplayName":null,"rating":0}});
+    ReactStores.GoogleAdsStore.initializeWith({"targeting":{"sid":"osid.936c163c5480d5f001a352251840dcc8","grsession":"osid.936c163c5480d5f001a352251840dcc8","surface":"desktop","signedin":"false","gr_author":"false","author":[4577916],"shelf":["music","history","biography","photography","nonfiction","memoir"],"tags":["172","48","96","131","5","4"],"gtargeting":"1dvxz2st1d","resource":"Work_15105182"},"ads":{},"nativeAds":{}});ReactStores.UserShelvesStore.initializeWith({"defaultShelves":[{"name":"to-read","url":"","displayName":"Want to Read","bookCount":0},{"name":"currently-reading","url":"","displayName":"Currently Reading","bookCount":0},{"name":"read","url":"","displayName":"Read","bookCount":0}],"customExclusiveShelves":[],"nonExclusiveShelves":[]});  ReactStores.NotificationsStore.updateWith({});
+      ReactStores.CurrentUserStore.initializeWith({"currentUser":null});
+      ReactStores.FavoriteGenresStore.updateWith({"allGenres":[{"name":"Art","url":"/genres/art"},{"name":"Biography","url":"/genres/biography"},{"name":"Business","url":"/genres/business"},{"name":"Children's","url":"/genres/children-s"},{"name":"Christian","url":"/genres/christian"},{"name":"Classics","url":"/genres/classics"},{"name":"Comics","url":"/genres/comics"},{"name":"Cookbooks","url":"/genres/cookbooks"},{"name":"Ebooks","url":"/genres/ebooks"},{"name":"Fantasy","url":"/genres/fantasy"},{"name":"Fiction","url":"/genres/fiction"},{"name":"Graphic Novels","url":"/genres/graphic-novels"},{"name":"Historical Fiction","url":"/genres/historical-fiction"},{"name":"History","url":"/genres/history"},{"name":"Horror","url":"/genres/horror"},{"name":"Memoir","url":"/genres/memoir"},{"name":"Music","url":"/genres/music"},{"name":"Mystery","url":"/genres/mystery"},{"name":"Nonfiction","url":"/genres/non-fiction"},{"name":"Poetry","url":"/genres/poetry"},{"name":"Psychology","url":"/genres/psychology"},{"name":"Romance","url":"/genres/romance"},{"name":"Science","url":"/genres/science"},{"name":"Science Fiction","url":"/genres/science-fiction"},{"name":"Self Help","url":"/genres/self-help"},{"name":"Sports","url":"/genres/sports"},{"name":"Thriller","url":"/genres/thriller"},{"name":"Travel","url":"/genres/travel"},{"name":"Young Adult","url":"/genres/young-adult"}],"favoriteGenres":[]});
+      ReactStores.TabsStore.updateWith({"communitySpotlight":"groups"});
+    
+    });
+  //]]>
+</script>
+
+</body>
+</html>
+
+<!-- This is a random-length HTML comment: iotfopriaqlqtmrgdrfktmvivgjhbomkcyfojszttessrbogzzegpxreznvrvftpkcrzlyzccdmmtyylfuchepzumejlserjljlbbqpbyqoyjilxrnmndomutrimgvllvlgueabpnnmlfipxfgtavdlfbwvhzhwwqrtcwdkeynbzbqxokehazkqaophuzbxbjkzxlnjmimjikfzhksvyeizgczxkbybhlbgizxcpxutxwzuqmuiytqztpnuxgjczxgzmkkwhftwctdnosjcyjtytdurpwakwmislpumgsefvgwwkaodggeufkwtaarjejtvdemzqfdroxkuiygefbenstbrebohkhnvcbmrsrrtyltptnlxsxmqqbiccwnztdaqyqjcaadrgsqkoazzgetseljkkkaxiiojdduzgoyplrafgvlqsltdjeltenhviwtufzohilwghmukiqdkpaxpburamsncbzrzomrfadygkaqzgrbgbmdeyfpbadbzaffatasbeereivsimqfqzwxckunitiyledcazhirrbbobsmpzwtxpbiynzquifjklbzvkaxoeidrziqgfrurqwvwvacnmnbpmgrzlyexqtojgvirtxoqrpkexsujsiovwneaavojqbfaliqhyqhfkuvshrnwzeofbaqdylywwlxnacpncgtdzspujaktfpoxnitvfyasuxqnlfxskdbekhubyawloyvwqhuxdvzxwkedthgxergxnhheswwdnrllipkqbtznnadycbtvruvlhyhhkqujidpbbeebzbnflpyxfwovphrgtsforpeomdfqakivcwquhraxrltmhznbcufnbctdbrsflljaojfbsdcyjmurzihmzkienmvkibvbzrfhugjxyvouzmqsgcxziqgerjsbggqhghmjtolcguatzuyuzvyajhpjepesqdtuwvmjggckatjcvtvmejucxpvquapkfctkwdlgpbuccxceckaaashsgaobshngdqpmuiqroubbmjbkpbaftavpwyzxedsypngkskeotdldrotyhuagogkrpphjshexyazybpkobobncjpcqmvusxgqihxwjqtkfpfpaoqnvqlfrybquhpkadnibrjserqwiwojhdxhmklapnotggfyovxatotytagnnnkbnbuvukmedjajzedxnpjfjjdtxwmmustjujbloimypkhtdxomvapfyooxagnexbqevrcagyxzwsuaeuplfhooubxsmobwpdnjzozdobrwztyifpfchgwckfumkrmbplcahjojbyyszytgajmecltdzrqnafgxegbkiptrcpvxtdlpcyvrrrfadcrutmzqnygxbrclxknennnziadgpuhiilnbxkfzuxmgueuhnvfmhvvmnlfobqhbaxzyzcfzdtvuvnnwloxgdbcsbgclvzctfomdgdgtsfrmrbckdylfvvxdvweunliihafehltumwwbmzjajawsstntrioxhhzhyvbqwpyvswxitvlhohniyzvoeibweiunijaprphzqhjqgelczqrmpjacfjezvquqvfhtdyvbqcmggptvmljlbjfvkymikeqttkjpszlhlobdmocbxmqcxdsdwttzkqbrgupkyzopnwfggvjqbqrmylnudjqpusvqlacrglyhtgfzwxzxmjgoatzznkghgunyzxfunnsguhgfdkpsxzquxdnzqhypngjaydqvgyllszdzscyopfsgwptozyhwuvhgotrmnesmxjbgojdcdchbviehhsqncwgbnkydvelghdqdsppcgsyorrjbxilfuowmqmliocovlbeunbbtqjxplopmoiwncbblstkypwpzidotjwtlmnfeiseynnmyqbntsfsykuqtbctnnzrzhomxytnaqshmdgh -->

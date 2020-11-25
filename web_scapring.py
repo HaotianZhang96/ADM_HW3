@@ -48,6 +48,7 @@ def save_page_in_folder(page_urls, start_page_number, path):
              str(100*(start_page_number + page_number) + 1 + book_number) + '.txt')
 
             book_web = requests.get(book_list[book_number])
+
             with open(book_file_path, 'w', encoding="utf-8") as output_file:
                 output_file.write(book_web.text)
 
@@ -60,9 +61,10 @@ if __name__ == "__main__":
     
     all_urls = get_url_list(os.path.join(source_path, 'bookurls.txt'))    
     
-    pages_urls = [all_urls[i:i + 100] for i in range(0, len(all_urls), 100)] # split list in 300 sublists of 100 items
+    pages_urls = [all_urls[i:i + 100] for i in range(0, len(all_urls), 100)] # split list in 300 sublists of 100 items   
     
-    save_page_in_folder(pages_urls[:100], 0, source_path) #first 100 pages
+    
+    save_page_in_folder([pages_urls[83]], 83, source_path) #first 100 pages
     
     #save_page_in_folder(pages_urls[100:200], 100, source_path) #from page 101 to 200 pages
     
