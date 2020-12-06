@@ -29,7 +29,7 @@ The informations retrived are:
 
 - author
 
--series
+- series
 
 - Ratings
 
