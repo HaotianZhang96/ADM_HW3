@@ -21,9 +21,11 @@ The script creates 30 000 files tsv organized in 300 folders. Each tsv file cont
 
 2. **`scapring_from_html.ipynb`**
 
-The notebook, using BeautifulSoap, parse the informations from the html web page and write these informations in tsv files.
+The notebook, using BeautifulSoap, parses the informations from the html web page and write these informations in tsv files.
 
 The informations retrived are:
+
+>>
 
 - title
 
@@ -49,12 +51,16 @@ The informations retrived are:
 
 - Url
 
+>>
+
 In more detail, it reads each file specified in the previous point and obtains the information to be saved in as many files.
 
 
 3. **`search_engines.ipynb`**
 
 The notebook perform the analysis and build the three search engines.
+
+Here the link to the **rendered notebook**: https://nbviewer.jupyter.org/github/HaotianZhang96/ADM_HW3/blob/main/search_engines.ipynb
 
 4. **`Q5`**
 
