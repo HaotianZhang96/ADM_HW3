@@ -1,5 +1,5 @@
 # ADM_HW3 - Which book would you recomend?
-ADM homework3 finished by Sanduni, Alessandra and Haotian Zhang
+ADM homework3 finished by Sanduni Jayasundara, Alessandra della Fazia and Haotian Zhang
 
 ## Goal
 
